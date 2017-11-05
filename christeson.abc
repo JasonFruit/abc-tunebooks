@@ -535,3 +535,77 @@ DE | F2=EF GFEF | DFBc d2cd | edcB ABcA | B2dc cBGE |
 F2=EF GFEF | DFBc d2cd | edcB ABcA | B2d2 B2 :|
 |: GA | B2FB dFBd | fBdf b2b2 | afga gf=ef | gf=eg f_edc |
 B2FB dFBd | fBdf b2b2 | afga gf=eg | f_ecA B2 :|
+
+X:44
+T:Leddy's Hornpipe
+T:Democratic Rage Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Bob Walters' playing.
+K:Bb
+GA | B2Bc BFDF | BcdB edcB | Acfg fdcA | BdcB AFAc |
+B2Bc BFDF | BcdB edcB | Acfg fdcA | BdcA B2 :|
+|: dc | Bdfg fdcA | Bg2a gfdf | bagf gfdB | edcB AFAc |
+Bdfg fdcA | Bg2a gfdf | bagf gfdB | edcA B2 :|
+
+X:45
+T:St. Joe Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Bob Walters, 1949.
+K:Bb
+FD | B,2DF B2Bc | dcde dcBd | cdcB AFAc | B2Bc dBFD |
+B,2DF B2Bc | dcde dcBd | cdcB AFGA | BdcA B2 :|
+|: dc | Bcdf b2fb | a2g^f gage | Acef agaf | g2fg gecA |
+Bcdf b2fb | a2g2 g3=e | fagf _ecAc | BdcA B2 :|
+
+X:46
+T:Thunderbolt Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Bob Walters, 1949.
+K:Bb
+FE | D[DB,]2[DB,]/[DB,]/ [DB,]2[DB,]2 | B,DFB dBFD | [FC][FC]2[FC]/[FC]/ [FC]2[FC]2 | ABcd cAFE |
+D[DB,]2[DB,]/[DB,]/ [DB,]2[DB,]2 | B,DFB dBFD | CFAc ecAF | B2(3(cBA) B2 :|
+|:ff | bfdB FBdB | cBAG F4 | Ag2g g2f2 | 
+Af2A fgf2 | [fB]4 [fc]4 | [fd]4 [ge]4 | fbag fedc | B2 (3(cBA) B2 :|
+
+X:47
+T:Effie's Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: By James Christeson, a better collector than composer.
+K:Bb
+f2 | bfdg fdBc | dBGB FDCD | B,DGB dBGD | FAcd c2f2 |
+bfdg fdBc | dBGB FDCD | B,DGB dBGD | FAcA B2 :|
+|: FD | B,DFB dBFD | G,B,DG BGDG | AFAc fagf | =efgf dBFD | 
+B,DFB dBGD | C=EGc =ec=Bc | AFAc fgf_e | dcBA B2 :|
+
+X:48
+T:Lonnie's Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Bob Walters' playing, 1950, learned from Lonnie Robertson, early 1940s.  Christeson's note refers to a key change that does not occur, the entire tune being notated in F without accidentals; as the first half is clearly in Bb and needs E-flats, I've supplied the key change at the midpoint.
+K:Bb
+dc | B2FD B,2DF | BABd fdBd | cAFA cBAc | B2bg fedc |
+B2FD B,2DF | BABd fdBd | cAFA cBAc | B2d2 B2 :|
+K:F
+|: AB | cAFA cBAc | fcAc f2ef | gece gfeg | fefa gfed |
+cAFA cBAc | fcAc f2af | gece gfeg | f2a2 f2 :|
+
+X:49
+T:Casey's Hornpipe
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Bob Walters, 1950.
+K:Bb
+FE | DB,DF BFDF | EDEG c2cB | AFAc f2=eg | f2=eg fcAF |
+DB,DF BFDF | EDEG c2cB | AFAc fcAF | [BD]2[BD][cD] [BD]2 :|
+|: F2 | [fd]4-[fd]cB2 | [BG]4-[BG]2cB | AFAc f2=eg | f2=eg fc=Bc |
+[fd]4-[fd]cB2 | [BG]4-[BG]2cB | AFAc fcAF | [BD]2[BD][cD] [BD]2 :|
