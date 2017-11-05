@@ -337,3 +337,149 @@ EF | A2Ac BAFG | AGAB c2cB | A2Ac BAFG | ABAF E2EF |
 A2Ac BAFG | AGAB c2cd | efec BAFG | ABAF E2 :|
 |: cB | ABcd ecec | f2e2 a4 | fecA BAFG | ABAF E2E2 |
 ABcd ecec | f2e2 a4 | fecA BAFG | ABAF E2 :|
+
+X:28
+T:Salt River Reel
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@gmail.com>
+K:A
+cB|  A2EA e4 & x4 cBcB | A2af edcB | AEAB cBAc | BGEG BdcB |
+A2AB e4 & x4 cBcB | A2af edcB | AEAB cABA | FGAB A2 :|
+|: ag | f2fe fgae | [fA][eA][ec]2 [ee]3[ec] | [eB]2[eA][eB] e4 & x4 cBAB | e4 e4 & BcAc B2A2 |
+f2fe fgae | [fA][eA][ec]2 [ee]3[ec] | [e2B2][eA][eB] e4 & x4 cABA | FGAB A2 :|
+
+X:29
+T:Paddy on the Turnpike
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+K:A
+AF | E2A2 A2AB | cABA cBAF | DF=GF G2GA | BcdB cBAF |
+EFAB cde=g | fedf e2ed | cBAc BAGB | A2Ac A2 & A2AA A2 :|
+|: cd | egab a2gf | eceg aecA | =GABd ef=ge | fedf e2cB |
+AEAc ef=ge | fedf e2ed | cBAc BAGB | A2Ac A2 & A2AA A2 :|
+
+X:30
+T:Last Night in Leadville
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+K:A
+cA | E2Ac BAaf | ecdB cAFG | A2Ac BAaf | ecAc BGEG |
+A2Ac BAaf | ecdB cAFG | A2Ac BAaf | ecBc A2 :|
+(3(efg) | a2ab aece | dBcA BAFA | agab ae!2!ab | c'abc' a2ab |
+c'aba faec | dBcA BAFA | EFAc BAaf | ecBc A2 :|
+
+X:31
+T:The Dusty Miller
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+K:A
+CB, |: A,2A,G, A,B,CD | EF=GE FEDB, | A,2A,G, A,B,CD | EGBd [ec][eA][eA]2 |
+A,2A,G, A,B,CD | EFED E2FG | AB=cA BAFD | EFAB A2 ||
+cd | ea2b a2af | edef =gfgf | ea2b aecA | EGBe [ec][eA][eA]2 |
+ea2b a2af | ecef =gfga | b=gaf gecd | efed [ec][eA][eA]2 :|
+
+X:32
+T:Pacific Slope
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+K:A
+EF | A2cB Aceg | agbg aece | fdBG EGBd | cABA GEFG |
+A2cB Aceg | agbg aece | fdBG EGBd | cABG A2 :|
+|:cd | e2ae cdec | d2b2 B2be | !1!g!3!beb gbeb | ac'ec' ac'e!4!c' |
+!4!e'2!2!c'2 !3!a2e2 | fedf edcA | Begf edcB | Aaec A2 :|
+
+X:33
+T:Tom and Jerry
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+K:A
+R: breakdown
+AB | [ec][ee]2[ec] [eB]2[ec][eB] | [eA][eB][ec][eA] [eB]2[ec][eB] | Aceg a2ea | fedf edcB |
+[eA]2[ec][eA] [eB]2[ec][eB] | [eA][eB][ec][eA] [eB]2[ec][eB] | Aceg afed | [ec][eA][eB][ec] [eA]2 :|
+|: CC | [EC]2[AE][AE] [EC]2[AE][AE]  | [FD]2[AF][AF] [FD]2[AF][AF] | [AE]2[AE][AF] [eA]2[eA][eB] | [ec][eA][eB][ec] AFED |
+[EC][EC][AE][AE] [EC][EC][AE][AE] | [FD][FD][AF][AF] [FD][FD][AF][AF] | [AE]2[AE][AF] [eA]2[eA][eB] | [ec][eA][eB][ec] [eA]2 :|
+
+X:34
+T:Bill Cheatum
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+K:A
+E2 | EFAB c2c2 | cBAc BAFD | DFAc d2de | fedf edcA |
+EFAB c2cB | ABcA BAFA | dcde fgaf | edcB A2 :|
+|: af | ecea fedf | eceg abaf | ecea fedf | ecAc BGEG |
+Acea fece | fefg aefg | agae faed | cABc A2 :|
+
+X:35
+T:Breakdown
+T:The Nigger Tune
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+R: breakdown
+N: From the playing of Bill Driver.  Has a piano accompaniment in Christeson.
+K:A
+AF | EFAB [ec]2[eB]2 | Aceg a2ga | b2fg aecA| dcBA cABA |
+EFAB [ec]2[eB]2 | Aceg a2gf | efga befg | a2ab a2 :|
+|: cd | ecac ecac | ecac fcec | fBgB fBgB | fBgB fcec |
+ecac ecac | ecac fcec | efga befg | a2ab a2 :|
+
+X:36
+T:Breakdown
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From playing of Bob Walters.  Good tune.
+K:A
+ab | c'ac'a baba | c'ac'a e2ab | c'ac'a bc'bg | a2c'a e2ab |
+c'ac'a baba | c'ac'a e2ab | c'ac'a egbg | a3a a2 z2 |
+(3(fgf)ec A4 | fefg a2a2 | (3(fgf)ec ABcA | BAGB A2A2 |
+(3(fgf)ec A4 | fefg a2ae | fgae fecA | BAGB A2A2 |
+A,2CE A2Ac | BAGB ABc2 | A,2CE ABcA | BAGF EDCB, |
+A,2CE A2Ac | BAGB ABcA | A,2CE ABcA | BAGB A2 :|
+
+X:37
+T:Breakdown
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+K:A
+(3(efg) | a2g2 a2e2 | fedf edcA | E2B2 G2B2 | eagf edce |
+a2g2 a2e2 | fedf edcA| E2B2 G2B2 | A2AA A2 & A2AG A2 :|
+|: AF | E2A2 cBcd | e2ef edcA | E2B2 G2B2 | eagf edcB |
+E2A2 cBAc | e2ef edcA | E2B2 G2B2 | A2AA A2 & A2AG A2:|
+
+X:38
+T:Breakdown
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: Bill Driver's playing. A favorite of his for dances.
+K:A
+A,A, | [EA,]2[AE]2 [EC]2[AE]2 | A2AA e4 & A2AA ABcA | [BE]2[eB]2 [BG]2[eB]2 | [ee]2eg fecA |
+[EA,]2[AE]2 [EC]2[AE]2 | A2AA e4 & A2AA cAcA | [BE]2[eB]2 [BG]2[eB]2 | [eA]2[eA][ec] [eA]2 :|
+|: cd | egab a2af | efae fecA | B2gf g2(3(fgf) | efge fecd |
+egab a3f | efag fecA | B2g2 gfed | cABG A2 :|
+
+X:39
+T:Breakdown
+M:2/4
+L:1/16
+Z: Jason R. Fruit <Jason R. Fruit@big-mac>
+N: From Vee Latty, who called it "Old Joe Clark"
+K:a
+AB | c2e2 e2e2 | fefg fecB | ce2f e2ef | gefg e2 AB |
+c2e2 e2ef | afea fecB | ABcA BAFD | EFAB [eA]2 :|
+|: CB, | A,2A,2 C2E2 | ABcA BAFA | ce2f e2ef | gefg e4 |
+A,2A,2 C2E2 | ABcA BAFG | ABcA BAFD | [AE][AF][eA][eB] [eA]2 :|
