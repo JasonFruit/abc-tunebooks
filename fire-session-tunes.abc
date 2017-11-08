@@ -1,0 +1,755 @@
+X:1
+T:Archibald MacDonald of Keppoch
+O:England
+M:3/4
+L:1/8
+S:Alasdair Fraser
+K:D Dorian
+DE|F3 G A2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4:|
+de|f3 e d2|c3 _B A2|_B3 A G2|A4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4 fg|
+a3 g f2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 g a2|A d3 ^c2|d4||
+
+X:2
+T:Niel Gows Lament for his Second Wife
+C:Niel Gow
+M:6/8
+O:Scotland
+R:Slow Air
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+F:http://richardrobinson.tunebook.org.uk/Tune/2510
+K:D
+D/B,/|\
+A,>B,D {DC}D>ED|EFA B2d|\
+A>FD {EF}E>DE|{DE}FDB, B,2D/B,/|\
+A,>B,D {DE}D>ED|EFA d2c/B/|
+A>FD {=C}B,2 A,|B,D>D D2:|\
+(3A/B/c/|\
+d>fd {cd}ecA|{Bc}B/A/B/c/{Bc}d B/A/G/F/E/D/|
+{EF}E>DE {DE}F>ED|{D}FDB, B,2 (3A/B/c/|\
+d>fd {cd}ecA|B/A/B/c/{Bc}d B/A/G/F/E/D/|
+{EF}E>DE {DE}FDB,|A,<DD [D2A,2] (3A/B/c/|\
+{e}d>fd ecA|B/A/B/c/{Bc}d B/A/G/F/E/D/|\
+F/D/A/F/d/A/ B/A/G/F/E/D/|{DE}FEE E2D/B,/|\
+A,B,D D>ED|EFA d2c/B/|\
+A>FD {=C}B,2A,|B,<DD [D2A,2]|]
+
+X:3
+T: NATHANIEL GOW'S LAMENT FOR HIS BROTHER
+Q: "Pathetically slow."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.113 #3
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/16
+K: Am
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+AB |\
+{AB}c3BA2 (e2B2d2) | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 (e2^f2g2) | B2G2G2 G4 GB |\
+{AB}c2B2A2 ({^G}e2B2d2) | c2e2a2 e4d2 |\
+c3BA2 E2A2^G2 | B2A2A2 A4 :|
+e2 |\
+a2^g2a2 e2(=gf)ed | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 e2^f2g2 | B2G2G2 G4e2 |\
+a2^g2a2 e2(=gf)ed | c2A2A2 A2e2d2 |\
+c3BA2 E2A2^G2 | B2A2A2 A4 e2 |
+a2^g2a2 e2(=gf)ed | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 e2^f2g2 | B2G2G2 G4e2 |\
+(a2e2).g2 (f2d2).B2 | (e2c2).A2 B2^G2E2 |\
+A2B2c2 B2(ed)cB | c2A2A2 A4 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+X:4
+T:Prince Charles's last view of Scotland
+T:An Sealladh ma dheireadh thug Tearlach
+R:Slow Air
+S:Simon Fraser Collection
+N:No.202
+O:Scottish
+M:6/8
+L:1/8
+Q:3/8=50
+K:G Minor
+G/A/|:~B>cB A2 G/^F/|G<DB =FDB,|B>cB A2 G/^F/|GAc d2D|
+~B>cB A2 G/^F/|G<DB =FD B,/C/|D>^CD B,2A,|G,G^F G2:|
+D|B>AG A^FD|B>cd G^FD|B>AG c>BA|d2^F G2 z/D/|[D3B3] [E3A3c3]|
+d>^cd [G2B2e2g2] a/b/|dcB cBA|G/^F/G/A/B/c/ d2D||
+
+X:5
+T: MacPherson's Rant
+T: MacPherson's Lament
+T: Below the Gallows Tree
+R: air
+C: James MacPherson, 1700
+N:
+N: Composed and played by James MacPherson, a robber and fiddler, shortly before he was
+N: hanged on 16 November 1700. He reportedly played the tune at the scaffold. There is a
+N: myth that he destroyed the fiddle so that nobody else could ever play it again. The
+N: truth seems to be that he offerred his fiddle to anyone in the crowd. There were no
+N: takers, possibly from fear of being considered his friend, so he smashed the fiddle
+N: and threw the pieces at the crowd. Part of the story is that the local authorities,
+N: fearing the arrival of a reprieve, advanced the clock so as to speed up his execution.
+N: The fiddle's remains are in the MacPherson Clan museum at Newtonmore. The
+N: published versions of this tune vary widely, not surprisingly for a song air.
+B: Hunter #10;  Harp & Claymore p.149;  Hardie p.115, BSFC I-15.
+Z: 1998 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: G
+D2 || "G"~G3A G2B2 | "D7"{B}A-GA-B A2E-F | "G"G3A B2A-G | "C"E4- "D7"E2D2 |
+w: Fare-well, ye dun-geons dark* and* strong,~ the* wretch-'s des-ti-*ny.*  Mac-
+   |  "G"~G3A B2AG | "D7"{B}A-GA-B A2B-A | "G"G3{c}B "C"A-GE2 | "D7"D6 Bc ||
+w: Pher-son's life will* not* be* long on* yon-der gal-*lows tree. Sae
+   || "G"{c}d3B "Em"c-BA-G | "Am"B2A2 "D7"~A2B-c | "G"d3d c-BA-G | "C"{G}E6 e2 |
+w: rant-ing-ly,* sae* wan-ton-ly, sae* daunt-ing-ly* gaed* he; He
+   |  "G"{c}d3B "Em"c-BA-G | "Am"B2A2 "D7"~A2D-E | "G"G3B "C"A-GE2 | "D7"D6 |]
+w: play'd a tune* and* danc'd~~ it round~~ be-* low the gal-* lows tree.
+
+X:6
+T: Marni Swanson of the Grey Coast
+C: Andy Thorburn 1995
+O: Evanton
+R: air, waltz
+Z: 2005 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+|: "G"GB dB BG | "Em"AG GE ED |  "G"GB dB BG | "C"ed ef {f}g2 \
+|  "G"GB dB BG | "Em"AG GE ED |  "C"G2 F"D"G2 A | "G"G6 :|
+[|"Bm"Bd df fg |  "C"fd Be BA | "Bm"Bd df fg | "C"fd B e2 d \
+| "Bm"Bd df fg |  "C"fd Be BA |  "C"e2 d"Bm"B2 A | "Am"e2 d B2 A |]
+[|"Bm"Bd ff fg |  "C"fd Be BA | "Bm"Bd ff fg | "C"fd B e2 d \
+| "Bm"Bd df fg |  "C"fd Be BA |  "C"e2 d"Bm"B2 A | "Am"G2 E"Bm"E2 D | "C"E6 | "D"D6 |]
+
+X:7
+T: The Jig Of Slurs
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: B | A2 d dcd | Bdd Add | Bdd Add | Bee edB |
+A2 d dcd | Bdd Add | Bdd cde | fdd d2 :|
+|: B | A2 f fef | aff f2 d | B2 e ede | fed edB |
+A2 f fef | aff f2 d | Bdd cde | fdd d2 :|
+K:Gmaj
+z |: G2 g gfg | agf g2 g | G2 g gfg | agf g2 g|
+G2 g gfg | agf g2 g | e2 e e2 g | fed e2 d :|
+|: GBB Bdd | dee efg | GBB Bdd | dee efg |
+GBB Bdd | dee efg | e2 e e2 g | [1 fed e2 d :| [2 fed e2 |]
+
+X:8
+T:Calliope House
+Z: id:dc-jig-166
+M:6/8
+L:1/8
+K:E Major
+B2c|e3 g2e|f2e gfe|c2f f2e|f3 fec|!
+BcB B2G|B2c e2f|gag gfe|f3 B2c|!
+e3 g2e|f2e gfe|c2f f2e|f3 fec|!
+BcB B2G|B2c e2f|gag fgf|e3|]!
+fga|b3 gbb|fbb efg|a3 gag|fgf fec|!
+BcB B2G|B2c e2f|gag gfe|f3 fga|!
+b3 gbb|fbb efg|a3 gag|fgf fec|!
+BcB B2G|B2c e2f|gag fgf|e3|]!
+
+X:9
+T:Blackthorne Stick
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+P:A
+d|"G"gfg "C"ege|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BAG "D7"A2d|
+"G"gfg "C"age|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BGG G2:|
+P:B
+d|"G"edd gdd|"G"edd gdd|"G"ede "C"gfe|"Am"dcB "D7"A2d|
+"G"gfg "C"age|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BGG G2:|
+
+X:10
+T:The Mucking of Geordie's Byre
+M:6/8
+L:1/8
+K:D
+d|:"D"ABA AFA|"D"d2 e f2 a|"G"gfe "D"f2 d|"G"efd B2 d|
+"D"ABA AFA|"D"d2 e f2 g|"G"afd "A"efe|1 "D"d3 "G"dcB:|2 "D"d3 def||
+|:"G"gfg gag|"D"fdf faf|"Em"ede efg|"D"fed "G"B2 d|
+"D"ABA AFA|"D"d2 e f2 g|"G"afd "A"efe|1 "D"d3 "G"def :|2 "D"d3 d2||
+
+X:11
+T:Stool of Repentance
+R:Jig
+N:The title refers to the "dunking chair" that was used to punish
+N:people in some parts of the British Isles and New England.
+M:6/8
+L:1/8
+K:A
+(3e/f/g/|:"A"a2e c2e|agf edc|"Bm"aff f2e|"D"fag "E7"f2e |
+"A"a2e c2e|agf edc|"D"d2e f2e|"E7"fac "A"B2A:|
+|:"A"cAA eAA|cAc edc|"Bm"dBB fBB|dcd "E7"fed |
+"A"cAA eAA|cAc edc|"D"d2e f2e|"E7"fac "A"B2A:|
+
+X:12
+T: Stan Chapman's
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+~E3 EFA|~B3 Bce|fea fec|ecA BAF|
+~E3 EFA|~B3 Bce|fea fec|ecA A3:|
+e3 ece|~f3 fga|ecA ~B3|cAE Eaf|
+e3 ece|~f3 fga|ecA ~B3|1cAA Aaf:|2cAA A3:|
+
+X:13
+T: Atholl Highlanders
+M: 6/8
+L: 1/8
+R: jig
+K: Amaj
+|:e2e ecA|ecA Bcd|e2e ecA|Bcd cBA|
+e2e ecA|ecA Bcd|eae fed|cdB A3:|
+Ace Ace|Adf Adf|Ace Ace|Bcd c2B|
+Ace Ace|Adf Adf|eae fed|cdB A3:|
+|:a2a aec|a2a aec|a2a aec|Bcd cBA|
+a2a aec|a2a aec|eae fed|cdB A3:|
+c2c cBA|d2d fed|c2c cBA|=G2=G BA=G|
+c2c cBA|d2d fed|eae fed|cdB A3:|
+
+X:14
+T:Drummond Castle
+M:6/8
+L:1/8
+S:AABB
+R:Jig
+O:James Hunter
+B:The Fiddle Music of Scotland
+K:Am
+E|"Am"A>BA a3|"Am"a>ge "G"g3|"C"c2 c e>dc|"G"B>dg dBG|!
+"Am"A>BA a3|"Am"a>ge "G"g3|"C"e>ge "G"deg|"Em"edB "Am"A2 :|
+B|"C"c2 c c>ec|"G"d2 d d>ed|"Am"c2 c e>dc|"G"B>dg dBG|!
+"C/Am"c2 c e>dc|"G"d>eg "F"a2 g|"C"e>ge "G"deg|"Em"edB "Am"A2:|
+
+X:15
+T:Sailor's Wife
+M:6/8
+L:1/8
+Q:120
+R:Jig (Key of Em)
+K:Em
+"Em"EFG F2E | e2f g2a | bag fed | "G"(3Bcd"D" B "D"AFD |
+"Em"EFG F2E | e2f g2a | bge "B7"af^d |1 "Em"e3 e2B :|2 "Em" e3 e2f |:
+"G"gab gab | gab bag | "D"fda fda | fga agf |
+"G"gab bag | "D"fga agf | "Em"bge "B7"af^d |1 "Em"e3 e3 :|2 "Em" e3 e2B |]
+
+X:16
+T:Mrs. MacLeod of Raasay (A51)
+N: page A51
+N: heptatonic
+M:4/4
+L:1/8
+R:Reel
+K:A
+ucA|"A"v.A2a2"D"fefa|"A"c/c/c cB c2 cB|.A2a2"D"fefa|"E"B/B/B BA BdcB|
+"A"A2a2"D"fefa|c/c/c cB c2 ce|"D"f2 fg fefg|afec "E"Bd:|
+|:cB|"A"ABcd  eccA|c/c/c  cB c2 cB|ABcd  eccA|"E"B/B/B BA BdcB|
+"A"ABcd eccA|c/c/c cB c2 ce|"D"f2 fg fefg|afec "E"B2:|
+
+X:17
+T:De'il Amang the Tailors
+M:4/4
+L:1/8
+R:Reel
+K:A
+eg|"A"{g}a2 eg {g}a2 eg|"A"{g}a2 ea fedc|"Bm"dfBf dfBf|"Bm"dfba "E"gefg|
+!
+"A"{g}a2 eg {g}a2 eg|"A"{g}a2 ea fedc|"D"defd "A"ecBA|"E"E2 G2 "A"A2:|!
+|:e2|"A"ceAe ceAe|"A"ceag fedc|"Bm"dfBf dfBf|"Bm"dfba gfed|!
+"A"ceAe ceAe|"A"ceag fedc|"D"defd "A"ecBA|"E"E2 G2 "A"A2:||
+
+X:18
+T:The Mason's Apron
+R:Reel
+B:O'Neill's 1343
+Z:Transcribed by Trish O'Neil
+M:C|
+Q:1/2=120
+L:1/8
+K:A
+(ed)| "A"c>A (3AAA ABAF| EFAc dcBA| "Bm"d>B (3BBB BcBA| Bcde "E7"fefg|
+"A"a>A (3AAA ABAF| "D"EFAc dcBA| Bcde fefa| "E7"(3AAA cB"A"A2:|
+e2| "A"cAeA fAeA| cAeA fedc| "Bm"dBfB bBfB|defg "E7"afed|
+"A"(3cBA eA fAeA|EFAc dcBA|"D"Bcde fefa|"E7"(3AAA cB"A"A2:|
+
+X:19
+T: Clean Pease Strae
+C:
+R:Reel
+Q: 232
+K:D
+M:4/4
+L:1/8
+|:A2|d2 f2 ge fd|eA AB =c2 BA|de fd ge fd|eg fe d2 A2|
+d2 f2 ge fd|eA AB =c2 BA|de fd ge fd|eg fe d2 fg|
+af df af df|eA AB =c2 fg|af df af df|eg fe de fg|
+af df af df|eA AB =c2 fg|af ge fd ec|Ag fe dc BA:|
+
+X:20
+T: Pretty Peggy
+O: Lowe 2
+R: reel
+Z: 2014 John Chambers <jc:trillian.mit.edu>
+S: Concord Slow Scottish Session collection
+S: handwritten page by Barbara McOwen labelled "ROAD TA HOULL SET - PAGE TWO", dated Oct 2003
+M: C|
+L: 1/8
+K: D
+"A"|: A |\
+"D"{c}d2(fd) AFDF | "D"d2(fd) "A7"(e/f/g) (fe) | "D"{c}d2(fd) "Bm"AFD(F | "Em"GE)FD "A7"CEE :|
+"B"[| A |\
+"D"(F/E/D) (AD) "G"BDAD | "D"(G/F/E) (FD) "A7"CEEG | "D"(F/E/D) (AD) "G"BDAD | "A7"(G/F/E) (FD) "D"A,DDA |
+"D"(F/E/D) (dD) cDBD | "D"A(D F/E/D) "A7"CEEG | "D"FAd(f "Em"ec)dB | "A7"A(FGE) "D"FDD |]
+
+X:21
+T:Largo's Fairy Dance
+M:4/4
+L:1/8
+C:Nathaniel Gow
+K:D
+de||:"D"f2 fd f2 fd|f2 fd "A"cdeg|"D"f2 fd "G"gfed|"A"cABc "D"defg:||
+"A"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"f2 fd "G"gfed|"A"cABc "D"defg|
+"A"abaf "G"b2 ba|"Em"gage "A"a2 ag|"D"f2 fd "G"gfed|"A"cABc "D"d4||
+
+X:22
+T:Willafjord
+M:C
+L:1/8
+K:D
+B2 | A2 F(A A)DFA| B2 G(B B)DGB| A2 F(A A)DFA| EFGA GFED|
+A2 F(A A)DFA| B2 G(B B)DGB| ABcd efge | f2 d2 d2 :|
+|: e2 | f2 d(f f)fdf | geaf gfeg | f2 d(f f)Adf| e2 c(e e)Ace | 
+f2 d(f f)fdf | geaf gfed | ABcd efge | f2 d2 d2 :|
+
+X:23
+T:Sleep Soond Ida Moarnin
+M:4/4
+L:1/8
+Q:120
+K:ADor
+"Am"A a2 g a2 e-f|"G"gedB "Em"GABG|
+"Am"A a2 g a2 e-f|1"Em"gedB "Am"A-A "Em"BG:|2"Em"gedB "Am"A3 B||
+cAeA cAeA|"G"BcdB G3 B|"Am"cAeA cAeA|"G"BAGB "Am"A2- AB|
+cAeA cAeA|"G"BcdB "Am"A2- AB|ABcd "C"efga|"G"gedB "Am"A2 BG||
+
+X:24
+T:Jenny Dang the Weaver
+M:4/4
+O:Scotland
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+F:http://richardrobinson.tunebook.org.uk/Tune/2754
+K:D
+d>A A/A/A AF AB|d>A A/A/A {g}f2 ef|\
+d>A A/A/A {c}BA Bd|AB de fa ef::
+de fd ef ge|de fd e2dB|\
+de fd ef ge|a>A AA f2ef:|
+
+X:25
+T:Miss Susan Cooper
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+(3A/2B/2c/2|"D"d/2f/2e/2d/2 "G"Bd/2B/2|"D"B/2A/2F/2A/2 D/2A/2F/2A/2|\
+A/2B/2d/2e/2 f/2a/2^g/2a/2|"Em"gf/2d/2 "A7"e/2A/2c/2e/2|
+"D"d/2f/2e/2d/2 "G"Bd/2B/2|"D"B/2A/2F/2A/2 D/2A/2F/2A/2|\
+"D"A/2B/2d/2e/2 "D""f#"f/2a/2f/2d/2|"A7"e/2A/2c/2e/2 "D"d::
+d/2c/2|"Bm"B/2c/2d/2e/2 f/2B/2B/2c/2|"Bm"d/2e/2f/2^g/2 "E7"ag/2f/2|\
+"A"e/2A/2c/2e/2 a^g/2a/2|"A7"gf/2d/2 e/2A/2c/2e/2|
+"D"d/2f/2e/2d/2 "G"Bd/2B/2|"D"B/2A/2F/2A/2 D/2A/2F/2A/2|\
+"D"A/2B/2d/2e/2 "Bm"f/2a/2f/2d/2|"A7"e/2A/2c/2e/2 "D"d:|
+
+X:26
+T:Miss Shepherd
+O:Scotland
+R:Reel
+M:4/4
+C:J. Scott Skinner
+K:Am
+{^G}A|\
+A,B, CD E2 DC|B,G ^FG DB, G,B,|\
+A,B, CD E^G Ac|BA ^GB cA A:|
+^g|\
+a2 ed cB A^F|G2 DC B,A, G,^g|\
+a2 ed cB Ac|BA ^GB cA A^g|
+a/a/a ed cB A^G|G/G/G DC B,A, G,B,|\
+A,B, CD E^G Ac|BA ^G[eB] cA A|]
+
+X:27
+T: Spootiskerry
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE | G2 DE GDEG | DEGA B2 AB | G2 DE GABd |eged B2 AB |
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA | B2 G2 G2 :|
+ef | g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2 ||
+
+X:28
+T: Tongadale
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:ef | gfgf eBef | gfgf eceg | fdAd BABd | ABde fedf |
+gfgf eBef | gfgf eceg | afAf BABd | AGFG E2 :|
+|:DF | GEBE cEBE | dEBE cBAG | FDAD BDAD | cDBD AGDF |
+GEBE cEBE | dEBE cBAG | FDAD BDAD | GEED E2 :|
+
+X:29
+T: Tam Lin
+%T: the Howling Wind
+%T: the Glasgow Reel
+C: Davey Arthur
+S: Elke Baker's version
+Z: John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: Am
+(F \
+| "Am"~E2) AE cEAE | "F"~F2 AF cFAF | "G"~G2 BG dGBd | "Am"cBAG "G"AGED | "Am"~E2 AE cEAE |
+"F"~F2 AF cFAF | "G"~G2 BG dGBd | "G"cBAG "Am"A3 :: (g | "Am"a)ged c2A(g | "Am"a)ged c2A(^f |
+"G"~g2)dg Bgdg | ~g2dg Bgdg | "Am"aged c2Ag | aged c2AG | "F"FEFG AGAB | "G"cBAG "Am"A3 :|
+
+X:30
+T: The Easy Club
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+AEAc BEGB|ceAc eAce|faag gace|Acec dcBc|
+AEAc BEGB|ceAc eAce|fagf efec|dBGB A2 z2:|
+faad zaga|eaac zaga|faad zfed|ceeB zdcB|
+A2cA BcdB|cdec defg|agae face|dBGB A2 z2:||
+
+X:31
+T:Flours of Edinburgh. JaW.020
+T:Flowers Of Edinburgh. JaW.020
+M:C|
+L:1/8
+Q:1/2=80
+S:James Winder Ms, Lancashire, 1835-41
+R:.Reel
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:G
+"_key D in ms"(GF/E/)|D3 E G3A|BABd B2 AG|F3E DEFG|AFdF EFGE|!
+D3E G3A|BABd e3g|B2 AG AGAc|B2G2 G2:|!
+|:d2|gfga b2 ag|fefg a2 gf|edef gfed|B2 e2 e2g2|!
+dBAG d2 cB|edef g3a|B2 AG AGAc|B2 G2 G2:|!
+|:GE|DEDE GEGA|BABc BdcB|AGAB cBcd|edef gab2|!
+DEDE GEGA|BABc e2B2|B2AG BAGA|B2G2 G2:|!
+|:d2|gdfa b2ag|fefg a2gf|edef gfed|B2e2 e2G2|!
+Bdg2 Bde2|Add2 Gcc2|B2AG BAGA|B2G2 G2:|
+
+X:32
+T: High Road to Linton
+R: Reel
+N: page 25
+N: heptatonic
+M: 4/4
+L: 1/8
+K: Amix
+|: "A"ceef a2ae | "G"f2fe "D"a2ae | "A"cefe a2ae | "D"faec "E"B2"A"A2 :|
+|: "A"ceeg "D"fddf | "A"ecce "E"fBB2 |"A"ceeg "D"fddf |"A"ecac "G"B2"A"A2 :|
+|: "A"a2a2 efa2 | efae faef | a2a2 efae | "D"faec "E"B2"A"A2 :|
+|: "A"c2ec "D"defd | "A"c2ec "G"BcdB | "A"c2ec "D"def^g | "A"afec "G"B2"A"A2 :|
+
+X:33
+T: Brenda Stubbert's
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:B|"Am"A/A/A (BA) GAAB|"Am"A/A/A (BA) "C"edde|"G"G/G/G (BA) BGGB| "C"c2 (BA) "G"BGGB|
+"Am"A/A/A (BA) GAAB|"Am"A/A/A (BA) "C"edda|"G"gedB GABd|"Em"[e/e/][e/e/][ee "G"([de][Be) "Am"eAA:|
+|:B|"Am"A/A/A a2 A/A/A g2| "Am"Aage "C"ageg|"G"G/G/G (BA) BGGB| "C"c2 (BA) "G"BGGB|
+[1"Am"A/A/A a2 A/A/A g2| "Am"Aage "C"agea| "G"gedB GABd|"Em"[e/e/][e/e/][ee] "G"([ed][eB]) "Am"eAA:|
+[2"Am"A/A/A (BA) GAAB|"Am"A/A/A (BA) "C"edda|"G"gedB GABd|"Em"[e/e/][e/e/][ee] "G"([ed][eB] )"Am"eAA|]
+
+X:34
+T:Aird Ranters, The
+C:Fred Morrison
+S:Derek Hoy
+Z:Nigel Gatherer
+M:4/4
+L:1/8
+K:ADor
+e<aa>e g<ee>d | e2 e<a g<e d2 | e<aa>e g<ee>d |1 c<AA>G c<A A2  :|2 c<AA>G c<A A>B ||
+c2 B<d c<AA>G | c<AA>G c<AA>B | c2 B<d c<AA>G |1 c<AA>G A2 A>B  :|2 c<AA>G A4      ||
+
+X:35
+T: The Kirrie Kebbuck
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+B| A<FF>A B<GG>B|c<Ae>c (3dfe (3dcB|A<FF>A B<GG>B|c<Ag>c d2-d>B|
+A<FF>A B<GG>B|c<Ae>c (3dfe (3dcB|A<FF>A B<GG>B|(3Agf (3edc d2 D||
+g| f>ga>f d<af>d|g>ab>g e<bg>e|f>ga>f d<af>d|(3.A.g.f (3.e.d.c d2-d>g|
+f>ga>f (3dag (3fed|g>ab>g (3eba (3gfe|f/e/d e/d/c d/c/B A>G|F>D E>C D2-D|]
+
+X:36
+T: Captain Campbell
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amin
+E<AA>B c>AB<G|D<GG>A B>dB<G|E<AA>B c>Bc<e|d<Bg>B A2 A2:|
+A<aa>g e>dc<e|d<eg>e d>BG<B|A<aa>g e>dc<e|d<Bg>B A2 A2|
+A<aa>g e>dc<e|d<eg>e d>BG<B|c<Ad>B e>dc<e|d<Bg>B A2 A2||
+
+X:37
+T:Braes of Mar
+M:4/4
+L:1/8
+S:Betsy Hooper 2012-5-1
+R:Strathspey
+K:D
+|:  "D"F<A A>B d>e f>e |  "G"d<B B>A "Em"B<d B>A | "D"F<A A>B d>e f>d | "G"e<g f<a "A"e2 "D"d2 :|
+|:  "D"f<a a>g f>d a>f |  "G"g<b b>a "Em"g>e b>g | "D"f<a a>g f>d a>f | "G"g<b f<a "A"e2 "D"d2 :|
+|: "Em"e<e e>f g>f e>d |  "G"B<B B>A "Em"B<d B>A | "D"F<A A>B d>e f>d | "G"e<g f<a "A"e2 "D"d2 :|
+|:  "D"F<A A>F D>F A>F |  "G"G<B B>G     D>G B>G | "D"F<A A>F D>F A>F | "G"G<B F<A "A"E2 "D"D2  |
+y|  "D"F<A A>F D>F A>F | "Em"E<E E>F  "A"G>F E>D | "D"F<A A>B d>e f>g | "D"a>b a>f "A"e2" D"d2 |]
+
+X:38
+T: The Iron Man
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amaj
+A2c>A B<GA>B|c2e>c d<Bc>e|f2d>f e2c>e|(3dcB (3cBA G<BB>c|
+A2c>A B<GA>B|c2e>c d<Bc>e|f2d>f e<ac>A|1 (3Bcd (3dcB c<AA>E:|2 (3Bcd (3dcB c<AA>e||
+|:a>Ag>A f>Ae>A|(3cBA e>g a>ec>A|d<Ec>E B<Ec>E|d/c/B c/B/A (3Bcd (3efg|
+a>Ag>A f>Ae>A|c/B/A e>g a>ec>A|d2f>d (3eag (3fed|1 (3cBA (3GAB c<AA>e:|2 (3cBA (3GAB c<AA>E||
+
+X:39
+T: Stirling Castle
+R:Strathspey
+C:Professor Bannatyne
+S:session playing
+Z:Juergen.Gier@post.rwth-aachen.de
+M:4/4
+L:1/8
+K:D
+D2F>A D>A F<A|A,2 C>E A,>E C<E|\
+D2F>A D>A F<A|1(3Bcd (3efg (3fed (3cBA :|2\
+(3Bcd (3efg f<d d|]A|d2 f>d g>e f>d|\
+B2 c>d (3efd (3cBA|d2 f>d g>e f>d|\
+(3Bcd (3efg f<d d>A|d2 f>d g>e f<d|\
+B2 c>d (3efd (3cBA|(3fga (3gfe (3dcB (3AGF|\
+(3GAB (3ABc (3dAG (3FGE|]
+
+X:40
+T:Laird o' Drumblair, The
+M:C
+L:1/8
+R:Strathspey
+N:"(Play with) Fire and force"
+C:J. Scott Skinner
+B:Harp and Claymore Collection
+Z:AK/Fiddler's Companion
+K:A
+E | {G}[A2A2] c>A [A<E<]A c>A | {A}a2 g>a f>ae>c | (3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A |
+(3.B.c.d (3.c.B.A (3.G.F.E (3.d.c.B | {G}[A2A2] c>A E<A c>A | {A}a2 g>a f>ae>c |
+(3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A | (3GFE (3dcB {G}[A2A2] A || g | {g}a2 e>a c>aA>a |
+c/B/A e>g a>A ca | {^a}b2 f>b d>fB>f | d/cB f>B {^a}g2>B d<b | {g}a2 e<a c>>a A>>a |
+c/B/A e>g a>Ac>A | (3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A | GFE dcB {G}[A,2A2A2] [A,EA] ||
+"Last"| GFE DCB, (A,2 A,) || [E8A8] ||
+
+X:41
+T: MARQUIS OF HUNTLY
+Q: "Strathspey."
+R:  Strathspey.
+%R: strathspey
+B: James Kerr "Merry Melodies" v.1 p.13 s.2 #5
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+K: Gm
+|: uF2 |\
+vDuG3 vG3uF DG3 G3A | F3GA3B cBAG FA3 |\
+DG3 G3F DG3 G3g | f3c dcBA BG3 G2 :|\
+ud2 |\
+g3a bg3 dg3 bg3 | af3 c3d f3g af3 |
+g3a bg3 dg3 bg3 | bagf df3 gg3 {g}g3^f |\
+g3a bg3 af3 g3d | fc3 d3f AF3 cA3 |\
+DG3 G3F DG3 G3g | f3c dcBA BG3 G2 |]
+
+X:42
+T: BIRNIEBOUZLE, or BRAES O' TULLIMETT.
+Q: "Strathspey."
+%R: strathspey
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.61 #2
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+c |\
+A<dd>c d>cd<f | A>Fc>F d>Fc>B |\
+A<dd>c d>cd<g | f>d {d}cB/A/ {A}G2G :|\
+d |\
+g>dg<b g>dg<b | f>cf<a f>cf<a |
+g>dg<b g>dg<b | f>c d/c/B/A/ G2G>d |\
+g>dg<b dg/a/ b<g | f>cf<a cf/g/ a{ga}^f |\
+g<dd>=e f>ga>g | fd/f/ d/c/B/A/ {A}G2G |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+X:43
+T: the Braes of Tulliemet 2 [Em]
+T: the Braes of Tullymet
+R: strathspey
+B: Neil Stewart 1761
+B: RSCDS 2-10b
+Z: John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: Edor
+F \
+| "Em"E<B B>A B>A B<d | "D"(3FED A>D B>D A>F \
+| "Em"E<B B>A B>A B<e | "Bm"d>B A>F "Em"E/E/E E :|
+B \
+| "Em"e>B e<g e>B e<g | "D"d>A d<f d>A d<f \
+| "Em"e>B e<g e>B e<g | "Bm"d>B A>F "Em"E/E/E E |]
+B \
+| "Em"e>B e<g (3Bef (3gfe | "D"d>A d<f (3Ade (3fed \
+| "Em"e<B B>c "D"d>e f>e | "Bm"d>B A>F "Em"E/E/E E |]
+
+X:44
+T: Cameron's Got His Wife Again
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+A|{c}d>B A>F A/A/A AB/c/|d>B A>F E4|
+{c}d>B A>F A>g f>e|d>B A<F D3:|
+f>d f<a e>g f>e|f>d f<a B2- B>g|
+f>d f<a e>g f>e|1 d>B A<F D3g:|2 d>B A<F D4||
+
+X:45
+T: The Smith's A Gallant Fireman
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+D2-.D>F {F}A2-.A>B|A>B {B}d>A F2TE<D|E2-E>F E2-.E>f|{f}g>f e<d TB2B<d|
+B,/D/z z>F {F}A2-A>B| A>B {B}d>A F2TE<D|{EF}G>B G<B F>A F<A|E>F G<A B2(3ABc|
+d2f<e- .e>d d>B|A>B {B}d>A F2TE<D|B<e e>f Te2e<f|{f}g>f e<d B2(3ABc|
+d2f<e- .e>d d>B|A>B {B}d>A F2TE<D|{EF}G>B G<B F>A F<A|E>F G<A B2 (3ABc||[D2d2]
+
+X:46
+T: Miss Drummond of Perth
+C:Niel Gow
+R:Strathspey
+Q: 128
+K:Am
+M:4/4
+L:1/16
+|:a2|AA3 e3d Bd3 e4|d3g Bg3 dg3 BG3|AA3 e3d Bcd2 efg2|ae3 g3B A4 A2e2|
+AA3 e3d Bd3 e4|d3g Bg3 dg3 BG3|AA3 e3d Bcd2 efg2|ae3 g3B A4 A2e2|
+aa3 e3a ca3 e3^f|gg3 d3g B3g d3g|aa3 e3a c3a e3g|ae3 g3B A4 A2^g2|
+aa3 e3a ca3 e3^f|gg3 d3g B3g d3g|aa3 e3a gb3 e3g|ae3 g3B A4 A2:|
+
+X:47
+T:The Battle of Waterloo
+M:4/4
+L:1/8
+C:ABB
+R:Reel
+K:Am
+ed/2B/2|"Am"A2 A>B AG GA|"C"c>d ec "Dm"d2 e<g|"Am"a>g ed "Em"ed BA|"G"G>
+E GA "Em"G2 ed/2B/2|!
+|"Am"A2 A>B AG GA|"C"c>d ec "Dm"d2 e<g|"Am"a>g ed "Dm"cA "Em"BG|"Am"A2 A
+>B A2||!
+ef||:"C"g>f ed c>d ef|"C"g>a ge g2 ef/2g/2|"Am"a>g ed "Em"ed BA|"G"G>E G
+A "Em"G2 ed/2B/2|!
+|"Am"A2 A>B AG GA|"C"c>d ec "Dm"d2 e<g|"Am"a>g ed "Dm"cA "Em"BG|"Am"A2 A
+>B A2:||
+
+X:48
+T:Campbell's Farewell to Redcastle
+C:(p. 142)
+M:2/4
+L:1/8
+K:A major
+%
+ue | "A"A>B cd | ea e>d | cA A(B/c/) | "G"d>B =GB |
+%
+"A"A>B cd | ea e>d | "A"c(B/A/) "G"=GB | "A"A2 {/A}A :|
+%
+(=g3/4f1/4) | "A"ea a(=g/f/) | ea e>d | "A"cA A(B/c/) | "G"d>B =G(g/f/) |
+%
+"A" ea a(=g/f/) | ea ed | "A"c(B/A/) "G"=GB | "A"A2 {/A}A (=g3/4f1/4) |
+%
+"A"ea a(=g/f/) | ea e>d | "A"cA A(B/c/) | "G"d>B =GB |
+%
+"A"(A/B/c/d/) (c/d/e/f/) | "A"(e/f/g/a/) (e>d) | \
+"A"c(B/A/) "G"=GB | "A"A2 {/A}A f|]
+|:"A" e2 ef|a2 fe|"G" dB =GB|dB d=g|
+"A" e2 ef|a2 fe|"G" dB =gB|1"A"BA Af:|2"A"BA A2||
+
+X:49
+T:Headlands March
+M:C|
+L:1/8
+K:A
+e>c|:d>cB>A A<cE>A|F>Ad<f e2 (3efg|a>ef<a f>ed<c|c>BA<c B2 e>c|
+d>cB>A A<cE>A|F>Ad<f a2 g>f|e<aA>c B>fe>d|1 c2 A2 A2 e>c:|2 c2 A2 A2 (3efg||
+a>ef<a c<ec>A|d>Ad<f e2 (3efg|a>ef<a f>ed<c|
+|1 c>BA<c B2 (3efg|a>ef<a c<ec>A|c>Ad<f a2 g>f|e<aA>c B>fe<d|c2 A2 A2 (3efg:|
+|2 c>BA<c B2 e>c|d>cB>A A<cE>A|F>cd<f a2 g>f|e<aA>c B>fe>d|c2 A2 A2 e>c |>|
+
+X:50
+T: Fingal's Cave
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amin
+E<G|A4 B>A G<A|B2 A2 A2 e>d|B2 A<G e2 d<B|d2 G2 G2 E<G|
+A4 B>A G<A|B2 A2 A2 e>d|B2 A<G e2 d<B|e2 A2 A2 :|
+B<d|e2 d<e g2 e<g|a2 e<a g4|e2 d<e g2 ^f<g|e>d B<A G2 B<d|
+e2 d<e g2 e<g|a2 e<a g4|g>e ^f<d g>e d<B|e2 A2 A2 B<d|
+e2 d<e g2 e<g|a2 e<a g4|e2 d<e g2 ^f<g|e>d B<A G>A B<G|
+c2 B<c d2 c<d|e2 d<e a4|g>e ^f<d g>e d<B|e2 A2 A2||
+
+X:51
+T: Scott Skinner's Compliments To Dr. MacDonald
+R: barndance
+M: 4/4
+L: 1/8
+K: Amaj
+|:E|{G}A2a>f e/d/c/B/ AB/c/|df ea cBBc|de/f/ ef/g/ aecA|d/B/e/d/ c/A/B/G/ EA A:|
+g|{g}a2ef/g/ aecA|df ea {cd}cB Bg|{g}a2ef/g/ ae cA|d/B/e/d/ c/A/B/G/ EA Ae|
+ag/f/ ef/g/ {g}aecA|df ea {cd}cBB2|AB/c/ de/f/ ef/g/ ae/c/|d/B/e/d/ c/A/B/G/ EAA||
+|:E|A/B/c/d/ e/f/g/a/ e/c/B/A/ G/A/B/c/|{e}d/c/d/f/ e/A/a/e/ {cd}cBBc|d/c/d/f/ ^d/e/f/g/ a/g/f/e/ d/c/B/A/|d/B/e/d/ c/A/B/G/ EAA:|
+e|a/g/f/e/ ^d/e/f/g/ aecA|d/e/f/d/ e/f/g/a/ {cd}cB Be|a/g/f/e/ ^d/e/f/g/ a/e/c/a/ e/c/A/c/|d/B/e/d/ c/A/B/G/ EAA (3e/f/g/|
+a/g/f/e/ ^d/e/f/g/ aecA|d/e/f/d/ e/f/g/a/ {cd}cB Bc|A/c/B/d/ c/e/d/f/ e/f/g/a/ e/c/B/A/|d/B/e/d/ c/A/B/G/ EAA||
+
+X:52
+T:To Daunton Me
+G:strathspey
+N:based on a Lowland song from the early 18th century (see the
+N:tunes from Mitchell's "The Highland Fair" of 1731 on my website)
+M:C
+L:1/8
+Q:1/4=120
+K:EDor
+G>A|B2   E2  E2   A>G|F>GE>F D2d>e|f>ed>B d<BA>F|B2 E2  E2:|
+F>E|D2   d2  d2   B>c|d>ed>B A2d>c|B2 e2  e2 e>f|g>fe>d B2
+d>e|f2 (3agf e2 (3gfe|d>ed>B A2d>e|f>ed>B d<BA>F|B2 E2  E2|]
