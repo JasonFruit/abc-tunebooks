@@ -4,6 +4,7 @@ O:England
 M:3/4
 L:1/8
 S:Alasdair Fraser
+R: Air
 K:D minor
 DE|F3 G A2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4:|
 de|f3 e d2|c3 _B A2|_B3 A G2|A4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4 fg|
@@ -125,6 +126,7 @@ M:6/8
 L:1/8
 Q:3/8=120
 K:D
+R: jig
 B|A>dd dcd |B>dd A>dd|B>dd A>dd|B>ee edB |
   A>dd dcd |B>dd A>dd|B>dd c>de|f>dd d2 :|
 B|A>ff fef |a>ff fed |B>ee ede |f>ee edB |
@@ -139,6 +141,7 @@ T:Calliope House
 Z: id:dc-jig-166
 M:6/8
 L:1/8
+R: jig
 K:E Major
 B2c|e3 g2e|f2e gfe|c2f f2e|f3 fec|!
 BcB B2G|B2c e2f|gag gfe|f3 B2c|!
@@ -154,6 +157,7 @@ T:Blackthorne Stick
 % Nottingham Music Database
 S:Kevin Briggs, via EF
 M:6/8
+R: jig
 K:G
 P:A
 d|"G"gfg "C"ege|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BAG "D7"A2d|
@@ -166,6 +170,7 @@ X:10
 T:The Mucking of Geordie's Byre
 M:6/8
 L:1/8
+R: jig
 K:D
 d|:"D"ABA AFA|"D"d2 e f2 a|"G"gfe "D"f2 d|"G"efd B2 d|
 "D"ABA AFA|"D"d2 e f2 g|"G"afd "A"efe|1 "D"d3 "G"dcB:|2 "D"d3 def|
@@ -186,7 +191,7 @@ K:A
 "A"cAA eAA|cAc edc|"D"d2e f2e|"E7"fac "A"B2A:|
 
 X:12
-T: Stan Chapman's
+T: Stan Chapman's Jig
 R: jig
 M: 6/8
 L: 1/8
@@ -316,6 +321,7 @@ T:Largo's Fairy Dance
 M:4/4
 L:1/8
 C:Nathaniel Gow
+R: Reel
 K:D
 de||:"D"f2 fd f2 fd|f2 fd "A"cdeg|"D"f2 fd "G"gfed|"A"cABc "D"defg:|
 "A"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"f2 fd "G"gfed|"A"cABc "D"defg|
@@ -325,6 +331,7 @@ X:22
 T:Willafjord
 M:C
 L:1/8
+R: Reel
 K:D
 B2 | A2 F(A A)DFA| B2 G(B B)DGB| A2 F(A A)DFA| EFGA GFED|
 A2 F(A A)DFA| B2 G(B B)DGB| ABcd efge | f2 d2 d2 :|
@@ -336,6 +343,7 @@ T:Sleep Soond Ida Moarnin
 M:4/4
 L:1/8
 Q:120
+R: Reel
 K:ADor
 "Am"A a2 g a2 e-f|"G"gedB "Em"GABG| "Am"A a2 g a2 e-f|1"Em"gedB "Am"A2 "Em"BG:|2"Em"gedB "Am"A3 B|
 cAeA cAeA|"G"BcdB G3 B|"Am"cAeA cAeA|"G"BAGB "Am"A2- AB|
@@ -360,6 +368,7 @@ T:Miss Susan Cooper
 S:via PR
 M:4/4
 L:1/4
+R: Reel
 K:D
 (3A/2B/2c/2|"D"d/2f/2e/2d/2 "G"Bd/2B/2|"D"B/2A/2F/2A/2 D/2A/2F/2A/2|\
 A/2B/2d/2e/2 f/2a/2^g/2a/2|"Em"gf/2d/2 "A7"e/2A/2c/2e/2|
@@ -376,6 +385,7 @@ O:Scotland
 R:Reel
 M:4/4
 C:J. Scott Skinner
+R: Reel
 K:Am
 {^G}A|\
 A,B, CD E2 DC|B,G ^FG DB, G,B,|\
@@ -419,6 +429,7 @@ S: Elke Baker's version
 Z: John Chambers <jc:trillian.mit.edu>
 M: C|
 L: 1/8
+R: Reel
 K: Am
 (F \
 | "Am"~E2) AE cEAE | "F"~F2 AF cFAF | "G"~G2 BG dGBd | "Am"cBAG "G"AGED | "Am"~E2 AE cEAE |
@@ -488,6 +499,7 @@ S:Derek Hoy
 Z:Nigel Gatherer
 M:4/4
 L:1/8
+R: strathspey
 K:ADor
 e<aa>e g<ee>d | e2 e<a g<e d2 | e<aa>e g<ee>d |1 c<AA>G c<A A2  :|2 c<AA>G c<A A>B ||
 c2 B<d c<AA>G | c<AA>G c<AA>B | c2 B<d c<AA>G |1 c<AA>G A2 A>B  :|2 c<AA>G A4      ||
@@ -559,13 +571,12 @@ N:"(Play with) Fire and force"
 C:J. Scott Skinner
 B:Harp and Claymore Collection
 Z:AK/Fiddler's Companion
+Q:172
 K:A
-E | {G}[A2A2] c>A [A<E<]A c>A | {A}a2 g>a f>ae>c | (3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A |
-(3.B.c.d (3.c.B.A (3.G.F.E (3.d.c.B | {G}[A2A2] c>A E<A c>A | {A}a2 g>a f>ae>c |
-(3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A | (3GFE (3dcB {G}[A2A2] A || g | {g}a2 e>a c>aA>a |
-c/B/A e>g a>A ca | {^a}b2 f>b d>fB>f | d/cB f>B {^a}g2>B d<b | {g}a2 e<a c>>a A>>a |
-c/B/A e>g a>Ac>A | (3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A | GFE dcB {G}[A,2A2A2] [A,EA] ||
-"Last"| GFE DCB, (A,2 A,) || [E8A8] ||
+E | "A"{G}[A2A2] c>A E<A c>A | "A"{^g}a2 g>a f>ae>c | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A | "Bm"(3.B.c.d (3.c.B.A "E"(3.G.F.E (3.d.c.B |
+"A"{G}[A2A2] c>A E<A c>A | "A"{^g}a2 g>a f>ae>c | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A |"E" (3GFE (3dcB "A"{G}[A2A2] A :|
+|: e | "A"{g}a2 e>a c>aA>a | "A"c/B/A e>g "F#m7"a>A c<a | "Bm"{^a}b2 f>b d>fB>f | "Bm"d/c/B f>B "E"{^a}g>B d<b |
+"A"{g}a2 e>a c>a A>a | "A"c/B/A e>g a>Ac>e | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A | "E"(3GFE (3dcB "A"{G}[A2A2] [EA] :|
 
 X:41
 T: The Marquis of Huntley
@@ -589,7 +600,7 @@ X:42
 T: Birniebouzle
 T:The Braes o' Tullimett
 Q: "Strathspey."
-%R: strathspey
+R: strathspey
 B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.61 #2
 S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
 Z: 2016 John Chambers <jc:trillian.mit.edu>
@@ -662,7 +673,7 @@ T:The Battle of Waterloo
 M:4/4
 L:1/8
 C:ABB
-R:Reel
+R:March
 K:Am
 ed/2B/2|"Am"A2 A>B AG GA|"C"c>d ec "Dm"d2 e<g|"Am"a>g ed "Em"ed BA|"G"G>
 E GA "Em"G2 ed/2B/2|!
@@ -678,6 +689,7 @@ T:Campbell's Farewell to Redcastle
 C:(p. 142)
 M:2/4
 L:1/8
+R: march
 K:A major
 %
 ue | "A"A>B cd | ea e>d | cA A(B/c/) | "G"d>B =GB |
@@ -699,6 +711,7 @@ X:49
 T:Headlands March
 M:C|
 L:1/8
+R: march
 K:A
 e>c|:d>cB>A A<cE>A|F>Ad<f e2 (3efg|a>ef<a f>ed<c|c>BA<c B2 e>c|
 d>cB>A A<cE>A|F>Ad<f a2 g>f|e<aA>c B>fe>d|1 c2 A2 A2 e>c:|2 c2 A2 A2 (3efg||
@@ -708,7 +721,7 @@ a>ef<a c<ec>A|d>Ad<f e2 (3efg|a>ef<a f>ed<c|
 
 X:50
 T: Fingal's Cave
-R: strathspey
+R: march
 M: 4/4
 L: 1/8
 K: Amin
@@ -721,26 +734,26 @@ c2 B<c d2 c<d|e2 d<e a4|g>e ^f<d g>e d<B|e2 A2 A2|]
 
 X:51
 T: Scott Skinner's Compliments To Dr. MacDonald
-R: barndance
+R: march
 M: 4/4
 L: 1/8
 K: Amaj
 |:E|{G}A2a>f e/d/c/B/ AB/c/|df ea cBBc|de/f/ ef/g/ aecA|d/B/e/d/ c/A/B/G/ EA A:|
 g|{g}a2ef/g/ aecA|df ea {cd}cB Bg|{g}a2ef/g/ ae cA|d/B/e/d/ c/A/B/G/ EA Ae|
 ag/f/ ef/g/ {g}aecA|df ea {cd}cBB2|AB/c/ de/f/ ef/g/ ae/c/|d/B/e/d/ c/A/B/G/ EAA||
-|:E|A/B/c/d/ e/f/g/a/ e/c/B/A/ G/A/B/c/|{e}d/c/d/f/ e/A/a/e/ {cd}cBBc|d/c/d/f/ ^d/e/f/g/ a/g/f/e/ d/c/B/A/|d/B/e/d/ c/A/B/G/ EAA:|
+|:E|A/B/c/d/ e/f/g/a/ e/c/B/A/ G/A/B/c/|{e}d/c/d/f/ e/A/a/e/ {cd}cBBc|d/c/d/f/ ^d/e/f/g/ a/g/f/e/ =d/c/B/A/|d/B/e/d/ c/A/B/G/ EAA:|
 e|a/g/f/e/ ^d/e/f/g/ aecA|d/e/f/d/ e/f/g/a/ {cd}cB Be|a/g/f/e/ ^d/e/f/g/ a/e/c/a/ e/c/A/c/|d/B/e/d/ c/A/B/G/ EAA (3e/f/g/|
 a/g/f/e/ ^d/e/f/g/ aecA|d/e/f/d/ e/f/g/a/ {cd}cB Bc|A/c/B/d/ c/e/d/f/ e/f/g/a/ e/c/B/A/|d/B/e/d/ c/A/B/G/ EAA||
 
 X:52
 T:To Daunton Me
-G:strathspey
+R: march
 N:based on a Lowland song from the early 18th century (see the
 N:tunes from Mitchell's "The Highland Fair" of 1731 on my website)
+Q:1/4=160
 M:C
 L:1/8
-Q:1/4=120
 K:EDor
-G>A|B2   E2  E2   A>G|F>GE>F D2d>e|f>ed>B d<BA>F|B2 E2  E2:|
+G>A|B2   E2  E2   A>G|F<GE>F D2d>e| ~f<ed>B d<BA>F|~B2 E2  E2:|
 F>E|D2   d2  d2   B>c|d>ed>B A2d>c|B2 e2  e2 e>f|g>fe>d B2 d>e |
-f2 (3agf e2 (3gfe|d>ed>B A2d>e|f>ed>B d<BA>F|B2 E2  E2|]
+f2 (3agf e2 (3gfe|d>ed>B A2d>e|f<ed>B d<BA>F| ~B2 E2  E2|]
