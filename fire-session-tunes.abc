@@ -112,12 +112,9 @@ Z: 2005 John Chambers <jc:trillian.mit.edu>
 M: 3/4
 L: 1/8
 K: G
-|: "G"GB dB BG | "Em"AG GE ED |  "G"GB dB BG | "C"ed ef {f}g2 \
-|  "G"GB dB BG | "Em"AG GE ED |  "C"G2 F"D"G2 A | "G"G6 :|
-[|"Bm"Bd df fg |  "C"fd Be BA | "Bm"Bd df fg | "C"fd B e2 d \
-| "Bm"Bd df fg |  "C"fd Be BA |  "C"e2 d"Bm"B2 A | "Am"e2 d B2 A |]
-[|"Bm"Bd ff fg |  "C"fd Be BA | "Bm"Bd ff fg | "C"fd B e2 d \
-| "Bm"Bd df fg |  "C"fd Be BA |  "C"e2 d"Bm"B2 A | "Am"G2 E"Bm"E2 D | "C"E6 | "D"D6 |]
+|: "G"GB dB BG | "Em"AG GE ED |  "G"GB dB BG | "C"ed ef {f}g2 |  "G"GB dB BG | "Em"AG GE ED |  "C"G2 F"D"G2 A | "G"G6 :|
+"Bm"Bd df fg |  "C"fd Be BA | "Bm"Bd df fg | "C"fd B e2 d |  "Bm"Bd df fg |
+"C"fd Be BA |  "C"e2 d"Bm"B2 A |1 "Am"e2 d B2 A :|2 "Am"G2 E"Bm"E2 D | "C"E6- | E6 | "D"D6- | D6 |]
 
 X:7
 T:The Jig of Slurs
@@ -129,28 +126,23 @@ K:D
 R: jig
 B|A>dd dcd |B>dd A>dd|B>dd A>dd|B>ee edB |
   A>dd dcd |B>dd A>dd|B>dd c>de|f>dd d2 :|
-B|A>ff fef |a>ff fed |B>ee ede |f>ee edB |
-  A>ff fef |a>ff fed |B>dd c>de|f>dd d2 :|
-B|G>gg gfg |a>gf gdB |G>gg gfg |a>gf g2B |
-  G>gg gfg |a>gf gdB |B>ee e>gg|f>dd e2 :|
+B|A>ff fef |a>ff fed |B>ee ede |f>ed edB |
+  A>ff fef |a>ff fed |B>cd c>de|f>dd d2 :|
+B|G>gg gfg |a>ge gdB |G>gg gfg |a>ge g2B |
+  G>gg gfg |a>ge gdB |B>ee e>fg|f>dd e2 :|
 B|G>BB B>dd|d>ee edB |G>BB B>dd|d>ee e>gg|
-  G>BB B>dd|d>ee edB |B>ee e>gg|f>dd e2 :|
+  G>BB B>dd|d>ee edB |B>ee e>fg|f>dd e2 :|
 
 X:8
-T:Calliope House
-Z: id:dc-jig-166
-M:6/8
-L:1/8
+T: Calliope House
 R: jig
-K:E Major
-B2c|e3 g2e|f2e gfe|c2f f2e|f3 fec|!
-BcB B2G|B2c e2f|gag gfe|f3 B2c|!
-e3 g2e|f2e gfe|c2f f2e|f3 fec|!
-BcB B2G|B2c e2f|gag fgf|e3|]!
-fga|b3 gbb|fbb efg|a3 gag|fgf fec|!
-BcB B2G|B2c e2f|gag gfe|f3 fga|!
-b3 gbb|fbb efg|a3 gag|fgf fec|!
-BcB B2G|B2c e2f|gag fgf|e3|]!
+M: 6/8
+L: 1/8
+K: Dmaj
+|(3dAA fAA|eAA fAA|Bee e2d|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 e2A:|2 f2f edc|d3 efg||
+a2a faa|eaa faa|g2g fgf|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 efg:|2 f2f edc| d3 d3||
 
 X:9
 T:Blackthorne Stick
