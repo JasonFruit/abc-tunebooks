@@ -1,6 +1,8 @@
 X:1
 T:The Bonnie Lass o' Bon-Accord
 T: From Logie Collection
+C: J. Scott Skinner
+R: air, variations
 M:4/4
 L:1/16
 Q:1/4=64
@@ -122,3 +124,17 @@ K:D
 A | !>!!p!F>D D/D/D (FG).!<(!A!<)!.B | cdAd BEEA | F>D D/D/D (FG).!<(!A.!<)!B | cdAd FD[DA,] :|
 g| .f(dcd) ABcd | efgf eEEg | f(dcd) ABcd | egfe {c}dD[DA,]g |
 !f!.f(dcd) ABcd | efgf eEEG | F>D D/D/D (FG) .!<(!A.!<)!B | cdAd F"^Last."D!fermata![DA,] |]
+
+X:10
+T:Tulchan Lodge
+T: From Logie Collection
+C: J. Scott Skinner
+R: strathspey
+M:C
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:A
+(!>!CE3) A3B c3B !>!A4 | (!>!DF3) B3c d3c !>!B4 | (CE3) A3B c3A e3c | !>!dcB2 AGF2 (3E2F2E2 (3D2C2B,2 |
+(CE3) A3B c3B !>!A4 | (!>!DF3) B3c d3c !>!B4 | CE3 A3B c3A a3f | (3e2f2e2 (3d2c2B2 cA3 [AC]2 ||
+g2 | aA3 c3e {g}a3"^[sic]"g c3A | DF3 B3c d3ef3g | aA3 c3e {g}a3e c3A | !>!def2 !>!Bcd2 !>!GAB2 (3e2f2g2 |
+aA3 c3e {g}a3e c3A | (D3F) (B3A) ({GA}G2F2) ({EF}E2D2) | (CE3) A3B .c.A3 !>!a3f |  (3e2f2e2 (3 d2c2B2 cA3 [AC]4 |]
