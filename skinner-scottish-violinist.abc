@@ -1,0 +1,86 @@
+X:1
+T:The Bonnie Lass o' Bon-Accord
+T: From Logie Collection
+M:4/4
+L:1/16
+Q:1/4=64
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:A
+!f!E2 | A3B {AB}c3B .A2.A,2C2E2 | !2!A{BA}G!<(!(A!3!f) ec{c}B!<)!A !>(!{A}B4-B3!>)!c | A3B {AB}c3B .A2.C2.E2.=G2 |
+(FDFA) (GE!1!G!3!B) !2!A4-A2 :| (3("heroic"efg) | (!>!a3!tenuto!c) (d2f2) .e2.A2 !0!a2(!4!gf) | .e2.A2 (fe)(dc) {c}B4-B2 (3(!<(!ef!<)!g) |
+a3c d2f2 e2A2 a2 "plaintive"=G2 | (FDFA) (GEGB) A4-A2 (3(efg) | (a3!tenuto!c) (d2f2) .e2.A2 a2(gf) |
+.e2.A2 {Ag}(fe)(dc) {c}B4-B3c | (A,CEA !4!.c3)!3!.B .A2.C2.E2.=G2 | (FDFA) (GE!1!G!3!B) A4-A2 ||
+"VAR"!p!E2 | {AB}(AGAB) {AB}(cBAG) .A (A,B,C DEFG) | (AGAf) (ec{c}BA) ({A}B4!tenuto!B3c) | !f!(AGAB) cBAG .A (A,B,!1!C DEF!0!=G) |
+(FDFA) GEGB A4-A2 :| (3!<(!(ef!<)!g) | !>!!>(!a.g.f.e .d.!>)!c.B.A eAcA !>!a(GA).B | cAeA aedc {c}(B4 !tenuto!B2) (3(!<(!ef!<)!g) |
+.a.g.f.e .d.c.B.A eAcA !0!a(GA=G) | (FDFA) (GEGB) A4 A2 (3(efg | !>(!a).g.f.!>)!e .d.c.B.A eAcA a2(gf)
+eG(Aa) (fe)(dc) {c}B4-B3c | (A,CEA "_7 down"c!4!e!4!!0!a)(g "_9 up"aecA G!4!AE=G) | ("_rall."FDF!2!A G!4!f)(!3!!fermata!eG) {G}"_3rd Corde"A4-A2 ||
+K:Aminor
+!p!"_sadly""^Minor."E2 | A3B {AB}c3B A2A,2C2E2 | (A^GAB cAdc) (B4!tenuto!B2)E2 | A3Bc3B "^2nd"A2c2d2f2 & x8 A2C2D2F2 |
+({ef}ed"^3rd Corde"ef) (e2^G2) A4-A2 & ({EF}EDEF) (EDCB,) A,4-A,2 :| (3(e^f^g) | (a3=g)(.=f2.e2) .f2.e2.d2.c2 | (cBAB cAdc) B4-B2 (3(e^f^g) |
+%page2
+(a3gf2.e2) (dcBc defd) | (edef edcB) A4-A2 (3(e^f^g) | (a3gf2.e2) .f2.e2.d2.c2 |
+(cBAB cAdc) (B4 !tenuto!B2) !upbow!^c2 | (!<(!A,^CEA ^ce!0!a)(!<)!^g !>(!aecA GAE!>)!=G) | (!<(!"^rall."^FDFA ^G!<)!!4!f)!fermata!e!2!!>(!^g {g}a4-!>)!a2 :|
+
+X:2
+T:The Miller's Rant
+T:From the Logie Collection
+C: J. Scott Skinner
+R: Strathspey
+M:C
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+A,(D3 F3)(D A3)(DF3)D | B,(E3 G3)(E B3)(E G3)E | A,(D3 F3)(D A3)(D F3)D | (GB3) (CA3) (D4!tenuto!D2) :|
+A2 | (Ad3) f3d a3df3d | B3(^de3)(f g3)(ec3)B | (Ad3) f3d a3df3d | Bd3 (c!tenuto!a3) (d4 !tenuto!d3)A |
+(Ad3) f3d a3df3d | B3^de3f g3ec3A | (3a2g2f2 (3e2d2c2 (3B2A2G2 (3F2E2D2 | (3C2D2E2 (3A,2B,2C2 (D4 !tenuto!D2) |]
+
+X:3
+T:Blin' Jamie
+C: J. Scott Skinner
+R: strathspey
+M:4/4
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+A4 {A}!>!B3A FA3 {c}d4 | edc2 {c}d3A B3E E3B | A4 {c}!>!B3A FA3 {c}d4 | edc2 {c}d3A F3D [DA,]4 :|
+"_[sic]"g2 | (f3d) (c3d) ABc2 d3f | g3e^d3e Bc^d2 e2g2 | f3d c3d ABc2 d3f | edc2 {c}d2A2 F2D2[DA,]2 g2 |
+f3dc3d (3A2B2c2 (3d2e2f2 | g3e^d3e (3!<(!B2c2^d2 (3e2f2!<)!g2 | (3f2e2d2 (3e2d2c2 (3d2c2B2 (3c2B2A2 | (3"^Last time."B2A2G2 (3A2B2c2 d2D2 !fermata![DA,]4 |]
+
+X:4
+T:The Miller o' Hirn
+C: J. Scott Skinner
+R: strathspey
+M:4/4
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+(!p!D3!tenuto!E) (FB3) AF3 "^2 down"(D4 | B,3)E GFED !downbow!C("_(~ in ms.)"A,3 {B,A,^G,}A,3C) | (D3!tenuto!E) (FB3) (AF3) "^3 down [sic]"(D4 | B,3)D (CA3) F(D3 !tenuto!D4) :|
+(!ff!A3!tenuto!G) (Fd3) B(G3 !turn!G4) | (!>!B3!tenuto!A) (^Ge3) !downbow!c!upbow!A3 (!upbow!A3B) | (A3!tenuto!G) (Fd3) B3A (GB3) | c3B (Aa3) !downbow!f!upbow!d3 (!upbow!!turn!d3B) |
+(A3!tenuto!G) (Fd3 B)(G3 !turn!G4) | (B3!tenuto!A) (^Ge3 c)!upbow!A3 (!upbow!A3c) | \
+L: 1/8
+(3!>!dAB (3!>!!<(!cde (3!>!fde (3!>!fg!<)!a | (3!>(!!>!bag (3!>!fed (3 cB!>)!A (3GFE || "^Last."!fermata![dAF]4 |]
+
+X:5
+T:Pittengardener's Rant
+T:From Harp and Claymore
+C: J. Scott Skinner
+R:strathspey
+M:C
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+!f!A,3D DDD2 (3!<(!F2G2A2 (3B2c2!<)!d2 | (3!>(!B2A2G2 (3F2E2!>)!D2 CE3 {FE^D}"_~ in ms"E3.F | A,3D DDD2 (3!<(!F2G2A2 (3B2c2!<)!d2 |1 (3!<(!c2B2A2 (3G2F2!<)!E2 FA,3 D4 :|2 (3!<(!e2f2g2 (3a2b2!<)!c'2 d'd3d2 ||
+(c'2 | d'2)d2b2d2 a2d2f2d'2 | (3c2d2e2 (3d2c2B2 cA3!>!A{d'c'^b}"_~ in ms"c'3 | d'2d2b2d2 a2d2f2d'2 | (3e2f2g2 (3a2b2c'2 d'd3d3(c' |
+(3 !ff!d'2)d2d2 (3b2d2d2 (3a2d2d2 (3f2d'2d'2 | (3c2d2e2 (3d2c2B2 cA3[AC]3c | {c}!ff!d3D DDD2 (3 !<(!F2G2A2 (3 B2c2!<)!d2 |1 (3 c2B2A2 (3 G2F2E2 FD3 [DA,]2 :|2 (3 e2f2g2 (3 a2b2c'2 d'd3 d4 |]
+
+X:6
+T:The Devil and the Dirk
+T:From Harp and Claymore
+C: J. Scott Skinner
+M:C|
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+{c}d | D/D/D (FD) AD {c}d2 | (AD).F.D CE-E.F | D/D/D (FD) AD {c}d2 | (AF) .G.E FD-D :|
+c' | d'ddd' c'ccc' | bBBb aAAa | gGGg fFFf | eBed c!<(!ea!<)!c' |
+d'ddd' c'ccc' | bBBb aAAa | geag fad'b | (af).g.e fdd || "^Last."!fermata![DA,]4 |]
