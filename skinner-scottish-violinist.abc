@@ -84,3 +84,41 @@ K:D
 {c}d | D/D/D (FD) AD {c}d2 | (AD).F.D CE-E.F | D/D/D (FD) AD {c}d2 | (AF) .G.E FD-D :|
 c' | d'ddd' c'ccc' | bBBb aAAa | gGGg fFFf | eBed c!<(!ea!<)!c' |
 d'ddd' c'ccc' | bBBb aAAa | geag fad'b | (af).g.e fdd || "^Last."!fermata![DA,]4 |]
+
+X:7
+T:Jamie Shearer
+R: reel
+C: J. Scott Skinner
+M:2/4
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+A | .d.c.B.A {c}d2(Ad) | cdAd .Be-e.g | .f.e.d.c {c}d2AF | GBEA FD[DA,] :|
+G | FAdA BGGf | gfed cAAG | FAde fdAF | GEAG FDD G|
+FAdA BGGf | gfed cABc | {c}d2(cd) BdAd | cbag fdd |]
+
+X:8
+T:Sandy Grant
+T:From Harp and Claymore
+C: J. Scott Skinner
+R: reel
+M:2/4
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+G | FDFA dAFA | (!<(!B=c)G!<)!=F !>(!E"_# in ms"=CG!>)!E | FDFA dABG | AFGE FDDG | FDFA dAFA|
+(B=c)G=F E"_# in ms"=CGE | FDFA dABg | fdec dDD || g| fdad fgad | cAeA cdeg |
+fdad fgaf | gfea fddg | fdad fgad | cAeA cdeg | !>!fdec dABG | AFGE FDD |]
+
+X:9
+T:The Spinnin' Wheel
+T: From Logie Collection
+C: J. Scott Skinner
+R: reel
+M:C|
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+A | !>!!p!F>D D/D/D (FG).!<(!A!<)!.B | cdAd BEEA | F>D D/D/D (FG).!<(!A.!<)!B | cdAd FD[DA,] :|
+g| .f(dcd) ABcd | efgf eEEg | f(dcd) ABcd | egfe {c}dD[DA,]g |
+!f!.f(dcd) ABcd | efgf eEEG | F>D D/D/D (FG) .!<(!A.!<)!B | cdAd F"^Last."D!fermata![DA,] |]
