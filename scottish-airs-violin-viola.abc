@@ -1,0 +1,13 @@
+X:1
+T:Alastair MacDonald of Keppoch
+T: Violin/viola duet
+M:3/4
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:Dminor
+[V:1]DE | {DE}F3GA2 | {e}f3ed2 | c3AF2 | {F}G4 DE | {DE}F3GA2 | {ea}f3ed2 | A{=B^c}d3^c2 | {^c}d4 :|
+[V:2 clef=alto]FE | D3EF2 | {G}F3GA2 | A3cA2 | G4 FE | D3EF2 | {G}F3GA2 | {FG}A4A,2 | D4 :|
+[V:1]de | {ea}f3ed2 | {cd}c3BA2 | {Ac}B3AG2 | {G}A4 DE | F3GA2 | {e}!turn!f3ed2 | Ad3{ed}^c2 | {^c}d4 fg |
+[V:2]dc | {^G}A3cd2 | {AB}A3GF2 | G3A{GA}B2 | A4 FE | D3EF2 | {G}F3GA2 | A4A,2 | {^C}D4 de |
+[V:1]{fg}a3gf2 | {fg}f3ed2 | {=B}~c3AF2 | "^(2nd time)"{F}!fermata!G4DE | {DE}F3GA2 | {ea}f3ga2 | Ad3{ed}^c2 | {^c}d4 |]
+[V:2]{de}f3ed2 | {de}d3cB2 | {^G}A3FD2 | "^(2nd time)"{=B,}!fermata!C4 FE| D3E{DE}F2 | d3e{de}f2 | F2E4 | D4 |]
