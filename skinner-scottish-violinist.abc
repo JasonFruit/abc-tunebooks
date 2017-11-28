@@ -151,3 +151,28 @@ K:A
 !f!G2 | {G}[AA]4 (E3TC) (!turn!A,2<<TC2) (E2>>TC2) | {C}[DD]4 B3A GB3 Ee3 | {G}!f![AA]4 E3C .A,.B,.C.D E3C | [DD]2>>F2 B,2>>G2 {G}[AA]4 z2 :|
 g2 | {g}!>!a4 (e3Td) (cd).e.f {g}a4 | {^a}b4 (f3Te) def^a b3g | {g}!>!a4 (e3Td) (cd).e.g {g}(a3Tc) | (d2>>Tf2) (B2>>Tg2) {g}a4- a2 [g2] & x14 "_[sic]"z2 |
 {g}!>!a4 (e3Td) (cd).e.f {g}a4 | {^a}b4 (f3Te) def^a b3g | .!>!a.g.f.a .g.f.e.g .!>!f.e.d.f !>!.e.d.c.e | dcde fgae cA3 [AE]2 |]
+
+X:12
+T:Miss Primrose
+T: From Harp and Claymore
+C: J. Scott Skinner
+R: strathspey
+M:4/4
+L:1/16
+Z: Jason R. Fruit <jason@starlight-glimmer>
+U: U=!tenuto!
+K:A
+{B,A,G,}A,3C E2>>G2 {G}(!<(![AA]2>>Uc2) /([ee]2>>U!<)!g2) | !>(!agfe fedc BAGF EDC!>)!B, | (A,2>>UC2) (E2>>UG2) {G}(!<(![AA]2>>Uc2) /([ee]2>>U!<)!g2) |  bagf e!0!e'3 c'a3 "_[sic]"[aA]4 :|
+c'2 | !>!e'2>c'2 .a2.c'2 e2c'2a2e'2 | d'2>b2 .g2.e2 d2B2G2b2 | !>!!0!e'2>c'2 a2c'2 e2a2c2a2 | bagf e2<!0!e'2 c'2<a2 [aA]2>c'2 |
+!>!e'3c' .a2.c'2 e2c'2a2c'2 | !>!d'3b .g2.e2 (dBG2) (EDB,2) | (A,2>>UC2) (E2>>UG2) {G}[AA]2>>c2 [ee]2>>a2 | .b.a.g.f e!0!e'3 c'a3 [aA]4 |]
+
+X:13
+T:Happy Tom
+R: Strathspey
+M:C
+L:1/16
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:A
+!f!A,B,CD E3G {G}[AA]4 E3D | CE3 {G}[AA]3c BB,3{CB,^A,}"_(turn in ms.)"B,3C | A,B,CD E3G {G}[AA]4 a3e | dcBA GFED CA,3!turn!"_[sic]"A,2 :|
+e2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 e2fg {g}a2A2[AE]2e2 |
+(abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | A,B,!<(!CD E3!<)!G {G}[AA]4 a3A | dcBA GFED CA,3!turn!A,2 |]
