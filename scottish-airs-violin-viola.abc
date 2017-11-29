@@ -28,13 +28,13 @@ K:AMix
 [V:2]A,E A,>B, | CD EA | E(D/C/) B,=G, | [EA,]2 [EA,] :|
 %
 [V:1](=g3/4f1/4) | ea a(=g/f/) | ea e>d | cA A(B/c/) | d>B =G(g/f/) |
-[V:2](E/>D/) | CA, E(E/D/) | CA, C>D | ED CA, | =G,(B,/C/) DE/D/, |
+[V:2](E/>D/) | CA, F(E/D/) | CA, C>D | ED CA, | =G,(B,/C/) D(E/D/) |
 %
 [V:1] ea a(=g/f/) | ea ed | c(B/A/) =GB | A2 [AA] (=g3/4f1/4) |
-[V:2] CA, E(E/D/) | CA, C>D | ED/C/ B,=G, | [EA,]2 [EA,] (=E/>D/)
+[V:2] CA, F(E/D/) | CA, C>D | ED/C/ B,=G, | [EA,]2 [EA,] (=E/>D/)
 %
 [V:1]vea a(=g/f/) | ea e>d | cA A(B/c/) | d>B =GB |
-[V:2]CA, E(E/D/) | CA, C>D | ED CB,/A,/ | =G,/A,/B,/C/ D(E/D/), |
+[V:2]CA, F(E/D/) | CA, C>D | ED CB,/A,/ | =G,/A,/B,/C/ D(E/D/), |
 %
-[V:1](A/B/c/d/) (c/d/e/f/) | (e/f/^g/a/) (e>d) | vc(B/A/) =GB | A2 [AA] |]
-[V:2] (C/D/E/F/) (E/F/^G/A/) | (=G/F/E/F/) E(C/D/) | E(D/C/) B,=G, | [EA,]2[EA,] |]
+[V:1](A/B/c/d/) (c/d/e/f/) | (e/f/^g/a/) (e>d) | vc(B/A/) =GB | A2 "^Last time"!fermata![AE] |]
+[V:2] (C/D/E/F/) (E/F/^G/A/) | (=G/F/E/F/) E(C/D/) | E(D/C/) B,=G, | [EA,]2 "_Last time"!invertedfermata![EA,] |]
