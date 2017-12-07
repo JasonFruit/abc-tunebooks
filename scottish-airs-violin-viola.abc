@@ -7,7 +7,16 @@ Z: Jason R. Fruit <JasonFruit@gmail.com>
 Q: 1/4=72
 K:Dminor
 [V:1]DE | {DE}F3GA2 | {e}f3ed2 | c3AF2 | {F}G4 DE | {DE}F3GA2 | {ea}f3ed2 | Ad3{ed}^c2 | {^c}d4 :|
-[V:2 clef=alto] FE | D3EF2 | {G}F3GA2 | A3cA2 | G4 FE | D3EF2 | {G}F3GA2 | {FG}A4A,2 | D4 :|
+[V:2 clef=alto] FE | D3EF2 | F3GF2 | E3FD2 | C4 FE |  D3EF2 | F3GF2 | E2A2A,2 | D4 :|
+[V:1]de | {ea}f3ed2 | {cd}c3BA2 | {Ac}B3AG2 | {G}A4 DE | F3GA2 | {e}!turn!f3ed2 | Ad3{ed}^c2 | {^c}d4 fg |
+[V:2] dc | A3cd2 | A3GF2 | G3FE2 | A4 FE | D3EF2 | F3GF2 | E2A2A,2 |} D4 dc |
+[V:1]{fg}a3gf2 | {fg}f3ed2 | {=B}~c3AF2 | {F}G4DE | {DE}F3GA2 | {ea}f3ga2 | Ad3{ed}^c2 | {^c}d4 ||
+[V:2] A3 cd2 | A3GF2 | E3FD2 | C4  FE | D3EF2 | A3GF2 | E2A2A,2 | D4 ||
+%
+%second strain
+%
+[V:1]|: DE | {DE}F3GA2 | {e}f3ed2 | c3AF2 | {F}G4 DE | {DE}F3GA2 | {ea}f3ed2 | Ad3{ed}^c2 | {^c}d4 :|
+[V:2 clef=alto] |:FE | D3EF2 | {G}F3GA2 | A3cA2 | G4 FE | D3EF2 | {G}F3GA2 | {FG}A4A,2 | D4 :|
 [V:1]de | {ea}f3ed2 | {cd}c3BA2 | {Ac}B3AG2 | {G}A4 DE | F3GA2 | {e}!turn!f3ed2 | Ad3{ed}^c2 | {^c}d4 fg |
 [V:2]dc | {^G}A3cd2 | {AB}A3GF2 | G3A{GA}B2 | A4 FE | D3EF2 | {G}F3GA2 | A4A,2 | {^C}D4 de |
 [V:1]{fg}a3gf2 | {fg}f3ed2 | {=B}~c3AF2 | "^(2nd time)"{F}!fermata!G4DE | {DE}F3GA2 | {ea}f3ga2 | Ad3{ed}^c2 | {^c}d4 |]
@@ -22,7 +31,27 @@ R: march
 K:AMix
 %
 [V:1]ue | A>B cd | ea e>d | cA A(B/c/) | d>B =GB |
-[V:2 clef=alto] z | z E A,>B,| CD EA| ED CA, | =G,(B,/C/) D>G, |
+[V:2 clef=alto] z | [EA,]4 | [EA,]4 | [EA,]4 | [DG,]4 |
+%
+[V:1]A>B cd | ea e>d | c(B/A/) =GB | A2 [AA] :|
+[V:2][EA,]4 | [EA,]4 | [EA,]2 GF & x2 G,2 | [EA,]3 :|
+%
+[V:1](=g3/4f1/4) | ea a(=g/f/) | ea e>d | cA A(B/c/) | d>B =G(g/f/) |
+[V:2]z | [EA,]2 [DD]2 | [EA,]4 | E3F & A,4 | G2D2 & G,4 |
+%
+[V:1] ea a(=g/f/) | ea ed | c(B/A/) =GB | A2 [AA] (=g3/4f1/4) |
+[V:2] [EA,]2 [DD]2 | [EA,]4 | E>F GF & A,2 G,2 | [EA,]4 |
+%
+[V:1]vea a(=g/f/) | ea e>d | cA A(B/c/) | d>B =GB |
+[V:2] [EA,]2 [DD]2 | [EA,]4 | E3F & A,4 | G2D2 & G,4 |
+%
+[V:1](A/B/c/d/) (c/d/e/f/) | (e/f/^g/a/) (e>d) | vc(B/A/) =GB | A2 A ||
+[V:2] A,>B, C>D | E2 A,2 | E>F G2 & A,2 G,2 | [EA,]3 ||
+%
+%second strain
+%
+[V:1]|: ue | A>B cd | ea e>d | cA A(B/c/) | d>B =GB |
+[V:2] |: z | z E A,>B,| CD EA| E>D CA, | =G,(B,/C/) D>G, |
 %
 [V:1]A>B cd | ea e>d | c(B/A/) =GB | A2 [AA] :|
 [V:2]A,E A,>B, | CD EA | E(D/C/) B,=G, | [EA,]2 [EA,] :|
@@ -31,10 +60,10 @@ K:AMix
 [V:2](E/>D/) | CA, F(E/D/) | CA, C>D | ED CA, | =G,(B,/C/) D(E/D/) |
 %
 [V:1] ea a(=g/f/) | ea ed | c(B/A/) =GB | A2 [AA] (=g3/4f1/4) |
-[V:2] CA, F(E/D/) | CA, C>D | ED/C/ B,=G, | [EA,]2 [EA,] (=E/>D/)
+[V:2] CA, F(E/D/) | CA, C>D | E(D/C/) B,=G, | [EA,]2 [EA,] (=E/>D/)
 %
 [V:1]vea a(=g/f/) | ea e>d | cA A(B/c/) | d>B =GB |
 [V:2]CA, F(E/D/) | CA, C>D | ED CB,/A,/ | =G,/A,/B,/C/ D(E/D/), |
 %
-[V:1](A/B/c/d/) (c/d/e/f/) | (e/f/^g/a/) (e>d) | vc(B/A/) =GB | A2 "^Last time"!fermata![AE] |]
-[V:2] (C/D/E/F/) (E/F/^G/A/) | (=G/F/E/F/) E(C/D/) | E(D/C/) B,=G, | [EA,]2 "_Last time"!invertedfermata![EA,] |]
+[V:1](A/B/c/d/) (c/d/e/f/) | (e/f/^g/a/) (e>d) | vc(B/A/) =GB | A2 !fermata![AE] |]
+[V:2] (C/D/E/F/) (E/F/^G/A/) | (=G/F/E/D/) (C>D) | E(D/C/) B,=G, | [EA,]2 !invertedfermata![EA,] |]

@@ -176,3 +176,39 @@ K:A
 !f!A,B,CD E3G {G}[AA]4 E3D | CE3 {G}[AA]3c BB,3{CB,^A,}"_(turn in ms.)"B,3C | A,B,CD E3G {G}[AA]4 a3e | dcBA GFED CA,3!turn!"_[sic]"A,2 :|
 e2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 e2fg {g}a2A2[AE]2e2 |
 (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | A,B,!<(!CD E3!<)!G {G}[AA]4 a3A | dcBA GFED CA,3!turn!A,2 |]
+
+X:14
+T:The £10 Fiddle.
+C: J. Scott Skinner
+R: reel
+M:C|
+L:1/8
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:A
+E | {G}A2 (ED) !<(!CEA!<)!f | eAfA GBBG | {G}A2 EC DFBA | !<(!GBe!<)!g !>(!aAA!>)!E | !>!A/A/A (ED) !<(!CEA!<)!f |
+x2 ax GBBG & eAfA x4 | !>!A/A/A (EC) DFBA | !<(!GBe!<)!g !>(!aA !>)!A || !f!g | {g}!>!a/a/a (ea) .c.a.A.g | x3 a x4 & aece fBBg |
+!>!a/a/a (ec) !>!f/f/f (dB) | GBeg aAA(a | !ff!"_with force".g.a).e.a .c.a.A.a | caAa fBBc | {G}A2 (EC) DFBA | GBeg aA !fermata!A |]
+
+X:15
+T:The Baker.
+C:J. Scott Skinner
+R:reel
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:A
+(d| c)AED CEAc | dFBA GBed | cAED CEAc | x3g aAA & dfBd cAA :| g | !f!a/a/a (Aa) fedc | BFBA !<(!GBe!<)!g |
+a/a/a (Aa) e/e/e (Aa) | fagb {g}aAAe | .a.A.a.g .f.e.d.c | .B.F.B.A .G.B.e.d | .c.A .E.D .C.E.A.c | dfBg {g}aAA |]
+
+X:16
+T:The Left Handed Fiddler
+C: J. Scott Skinner
+R: reel
+M:2/4
+L:1/16
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:A
+d | cAce {g}(a2ed) | cAEA GBBd | cAce aefd | ecdB cAAd | cAce {g}a2(ed) | cAEA GBBG |
+!<(!AcBd ced!<)!f | ecdB cAA || g | a/a/a (Aa) .c.a.A.a | caAa BcdB | a/a/a (Aa) .c.a.A.a |
+{a}BcdB !uppermordent!cAAg | !ff!"^neatly Cuckoo"a/a/a (Aa) caAc | caAa BcdB | "^Dance."cAdB eagf | ecdB cA!fermata![AE] |]
+"^Alternate last measures for Solo:"AEcA dBec | fdge {g}aA!fermata!A |]
