@@ -277,3 +277,42 @@ K:D
 D<d-d>B A>FD>F | G>AB>A G/F/E/D/ C<E | D<(d!tenuto!d)>B A>FD>F | G/A/B/c/ d>A FD"^[sic]"D :|
 g | (f>ga).f dfAd | (g>ab).g egBe | (f>ga).f dfAd | .c/.B/.A/.^G/ Aa f<d!turn!y[dF]>=g |
 !f!(f>ga)f dfDd | (g>ab).g eg Ee | f/g/.a/.g/ .f/.e/.d/.c/ .d/.c/.B/.A/ .B/.A/.G/.F/ | .G/.A/.B/.c/ .d/.B/.A/.G/ F<D [DA,]2 |]
+
+X:22
+T:Dr. Gordon Stables' Reel
+M:2/4
+L:1/16
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:D
+U: R=!trill!
+A, | (DF)A.c {c}d2.A.d | !>(!BAGF E!>)!DCg | fedc BAGF | GEAG FDD :|
+g | fgaf gabg | efge fgaf | !<(!defg abc'!<)!d' | geag fd[dF]g |
+fgaf gabg | efge fgag | {DA}!>(!fedc BAG!>)!F | GEAG FDD ||
+"^VAR."A, | (DF).A.c {c}d2.A.d | RBARGF REDCg | (3(!>(!fga (3gfe) (3(dcB (3AG!>)!F) (3(EF!<(!G (3AB!<)!c) dDD :|
+f | (DA)(.f.A) (G,B)(.g.B) | (A,c)(.g.c) (DA)(.f."_[sic]"E) | defg abc'd' | geag fddf |
+(3("^arpeggio"DAf) (3(.f.A.D) (3(G,Bg) (3(.g.B.G,) | (3(A,cg) (3(.g.c.A,) (3(DAf) (3(.f.A.D) | {DA}!f!!>(!fedc !>)!BAGF | GEAG FD[DA,] |]
+
+X:23
+T:The Bride's Reel
+C: J. Scott Skinner
+R: reel
+Q: 1/4=136 for solo
+M:2/4
+L:1/16
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:D
+"^up"y{!<(!ABc}!<)!!f![dD]2.A.G "^Springing bow" .F.D.A,.D | .B,.D.A,.D !<(!.C.E.A.!<)!c | {c}d2AF GBed | cAag fddA | "^up"y{c}[dD]2.A.G .F.D.A,.D |
+.B,.D.A,.D !<(!.C.E.A!<)!.c | dcdA BGdB | AFGE FD"_[sic]"[DG,] || g | fgaf dAFD | GBed cAag |
+fgaf dAFD | GBAc dDDg | fgaf dAFD | GBed cABc | !<(!dfeg fag!<)!b | afge fd[dF]2 |]
+
+X:24
+T:The Auld Wheel
+C: J. Scott Skinner
+R: reel
+M:C|
+L:1/8
+Z: Jason R. Fruit <jason@starlight-glimmer>
+K:D
+A |d/d/d (AGFG) .A.d | B/B/B (ed) cAAc | d/d/d (AF) GABd | cdec dDDA | d/d/d (AG FG).A.d |
+B/B/B (ed) cAAc | d/d/d (AF) GABg | fedc dDD || !f!g | !>!fDFA dfaf | !>!eEGB efge |
+fDFA dfaf | efga fddg | fDFA dfaf !>!eEG!<(!B efg!<)!a | !>(!bagf edcB | AGF!>)!E DABc & x4 D2-D!D.S.!||
