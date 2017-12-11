@@ -526,3 +526,50 @@ K:A
 d | c<A {F}E>D C>EA,>C | {C}[DD]2 (B>A) (3Gfe (3dcB | c<A {F}E>D C>EA,>C | (3DFB (3GEG {G}([AA]2[AE]) :| 
 g | a>f g>e f<de>c | d>Bc>A (3Bcd (3efg | a>fg>e f<de>A | (3Gfe (3dcB {G}([AA]2[AE])>g |
 "^Solo or Dancing."(3afa (3geg (3fdf (3ece & a>f g>e f>d e>c | (3dBd (3cAc (3!<(!Bcd (3!<)!efg & d>B c>A x4 | (3"_Springing Bow.".a.g.a (3.e.f.g (3.a.e.d (3.c.B.A | (3.G.f.e (3.d.c.B {G}([AA]2[EA] & (3GFE (3DCB, (A,2 A,) |]
+
+X:38
+T:The Devil in the Kitchen
+T: or The Prince of Wales Jig.
+T: From Harp and Claymore.
+C: W. Ross.   H.M. Piper. 
+C: Adapted for Violin by J. Scott Skinner
+R: fling, strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+U: N=!tenuto!
+K:Hp % this lets abc2midi know a playable key signature
+K:^f^c=g % this tells abcm2ps what key signature to draw, since it renders Hp weird
+f |: !>!e>A A<A A>A c>A & x2 A/A/A A/A/A x2 | e>A AA {agf}g2 e<a & x2 A/A/A x4 | e>A A<A A<A c>A & x2 A/A/A A/A/A x2 | B>G d/c/B {agf}g2 f<g :|
+(a>NA) A/A/A (e>NA) (c>NA) | a>A A/A/A {agf}g2 f<g | a>A .A/.A/.A .A/.A/.A c>A | B>G d/c/B {agf}g2 f<g | 
+(a>NA) A/A/A e/A/A (c>NA) | a>A A/A/A {agf}g2 f<g | a/g/f g>e f>d e>A | B>G d/c/B {agf}g2 f<g |
+|: {F}!>!E>A, A,/A,/A, A,/A,/A, C>A, | !>!E>A, A,/A,/A, {AGF}G2 E<A | !>!E>A, A,/A,/A, A,/A,/A, C>A, |  !>!B,>G, D/C/B, {AGF}G2 F<G :|
+ (a>NA) A/A/A (e>NA) (c>NA) | a>A A/A/A {agf}g2 f<g | a>A .A/.A/.A .A/.A/.A c>A | B>G d/c/B {agf}g2 f<g | 
+(a>NA) A/A/A e/A/A (c>NA) | a>A A/A/A {agf}g2 f>g | a/g/f g>e f>d e>A | B>G d/c/B {agf}g2 f<g !D.C.!||
+
+X:39
+T:The Miller o' Dervil
+T: (also Bob Steele, Auld Brig o' Ayr, New Brig o' Dee)
+C: Tom Barnett
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:D
+"^Popular Strathspey"A, | [DD]<D F>A d>c d<f | [DD]<D F>D E>B,B,>E | D<D F>A d>cd>A | (3.B.c.d (3 .A.B.G F<D [DA,] :|
+A | "_long bow 2 bows to the bar."(d>ef>).g (a>ba)>.d | (=c>de>).f (g>ag)>.e & "<("">)"E>x x6 | (d>ef)>.g (a>ba)>.f | (3.g.f.e (3.b.a.g f<d[dF]>g |
+(3"_Dancing bow".f.d.f (3.a.f.d (3.g.f.g (3.e.f.g | (3.f.d.f (3.e.c.e (3.d.c.B (3.A.B.=c | (3.B.G.B (3.d.c.B (3.A.f.e (3.d.c.B & x4 (3.A.F.A x2 | (3ABA (3GFE F<D [DA,]|
+
+X:40
+T:The Warrior o' Persie
+C: J. Scott Skinner
+R: air, strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:D
+"^1st Slow Air""^2nd Accented Style. - Slow and Bold Strathspey\n"A, | {C}[DD]2 FD A,DFD | G/A/B/c/ dD CE E>F | {C}[DD]2F>D B,D .G,.B | A/B/c/d/ A/F/G/E/ FD[DA,] :|
+g | {DA}f>gaf .d.A.F.D | g>abg .e.B.G.E | f>ga.f .d.A.F.D | C/D/E/F/ G/E/A/G/ FD[DA,]g |
+{DA}f>gaf .d.A.F.D | {G,B}g>abg .e.B.G.E | {C}[DD]2 F>D .B,.D .G,.B | A/B/c/d/ A/F/G/E/ FD[DA,] ||
+"^Var. to 2nd Strain only"!>!g | f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ |  f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/ D/!tenuto!d/ |  C/D/E/F/ G/E/A/G/ FD[DA,]g |
+!>!f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ & x7 E/C/ | {C}[DD]2 F>D B,D G,!fermata!B | A/B/c/d/ a/f/g/e/ fdd |]
