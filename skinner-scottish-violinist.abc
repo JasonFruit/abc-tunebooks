@@ -1,4 +1,50 @@
 X:1
+%%textfont Times-Roman 12
+%%center "Talent does what it can; Genius does what it must."
+%%textfont Times-Roman 8
+%%center [Seriously, he put that on the title page.]
+%%textfont Times-Roman 36
+%%begintext
+%%
+%%
+%%
+%%endtext
+%%textfont Times-Roman 36
+%%center The Scottish Violinist
+%%begintext
+%%
+%%
+%%
+%%endtext
+%%textfont Times-Roman 16
+%%center Consisting of Strathspeys, Reels, Pibrochs, Marches, Hornpipes,
+%%center Pastoral Airs, Violin Solos, Slow Airs, etc., etc.
+%%begintext
+%%
+%%
+%%
+%%endtext
+%%begintext
+%%
+%%
+%%
+%%endtext
+%%textfont Times-Roman 14
+%%center As Composed and Arranged by
+%%textfont Times-Roman 36
+%%center J. Scott Skinner,
+%%textfont Times-Roman 16
+%%center The Greatest Exponent of our National Music.
+%%begintext
+%%
+%%
+%%
+%%endtext
+%%textfont Times-Roman 12
+%%center Transcribed by Jason R. Fruit
+%%center jasonfruit@gmail.com
+
+X:2
 T:The Bonnie Lass o' Bon-Accord
 T: From Logie Collection
 C: J. Scott Skinner
@@ -23,7 +69,7 @@ K:Aminor
 (a3gf2.e2) (dcBc defd) | (edef edcB) A4-A2 (3(e^f^g) | (a3gf2.e2) .f2.e2.d2.c2 |
 (cBAB cAdc) (B4 !tenuto!B2) !upbow!^c2 | (!<(!A,^CEA ^ce!0!a)(!<)!^g !>(!aecA GAE!>)!=G) | (!<(!"^rall."^FDFA ^G!<)!!4!f)!fermata!e!2!!>(!^g {g}a4-!>)!a2 :|
 
-X:2
+X:3
 T:The Miller's Rant
 T:From the Logie Collection
 C: J. Scott Skinner
@@ -36,7 +82,7 @@ A,(D3 F3)(D A3)(DF3)D | B,(E3 G3)(E B3)(E G3)E | A,(D3 F3)(D A3)(D F3)D | (GB3) 
 A2 | (Ad3) f3d a3df3d | B3(^de3)(f g3)(ec3)B | (Ad3) f3d a3df3d | Bd3 (c!tenuto!a3) (d4 !tenuto!d3)A |
 (Ad3) f3d a3df3d | B3^de3f g3ec3A | (3a2g2f2 (3e2d2c2 (3B2A2G2 (3F2E2D2 | (3C2D2E2 (3A,2B,2C2 (D4 !tenuto!D2) |]
 
-X:3
+X:4
 T:Blin' Jamie
 C: J. Scott Skinner
 R: strathspey
@@ -48,7 +94,7 @@ A4 {A}!>!B3A FA3 {c}d4 | edc2 {c}d3A B3E E3B | A4 {c}!>!B3A FA3 {c}d4 | edc2 {c}
 "_[sic]"g2 | (f3d) (c3d) ABc2 d3f | g3e^d3e Bc^d2 e2g2 | f3d c3d ABc2 d3f | edc2 {c}d2A2 F2D2[DA,]2 g2 |
 f3dc3d (3A2B2c2 (3d2e2f2 | g3e^d3e (3!<(!B2c2^d2 (3e2f2!<)!g2 | (3f2e2d2 (3e2d2c2 (3d2c2B2 (3c2B2A2 | (3"^Last time."B2A2G2 (3A2B2c2 d2D2 !fermata![DA,]4 |]
 
-X:4
+X:5
 T:The Miller o' Hirn
 C: J. Scott Skinner
 R: strathspey
@@ -62,7 +108,7 @@ K:D
 L: 1/8
 (3!>!dAB (3!>!!<(!cde (3!>!fde (3!>!fg!<)!a | (3!>(!!>!bag (3!>!fed (3 cB!>)!A (3GFE || "^Last."!fermata![dAF]4 |]
 
-X:5
+X:6
 T:Pittengardener's Rant
 T:From Harp and Claymore
 C: J. Scott Skinner
@@ -75,7 +121,7 @@ K:D
 (c'2 | d'2)d2b2d2 a2d2f2d'2 | (3c2d2e2 (3d2c2B2 cA3!>!A{d'c'^b}"_~ in ms"c'3 | d'2d2b2d2 a2d2f2d'2 | (3e2f2g2 (3a2b2c'2 d'd3d3(c' |
 (3 !ff!d'2)d2d2 (3b2d2d2 (3a2d2d2 (3f2d'2d'2 | (3c2d2e2 (3d2c2B2 cA3[AC]3c | {c}!ff!d3D DDD2 (3 !<(!F2G2A2 (3 B2c2!<)!d2 |1 (3 c2B2A2 (3 G2F2E2 FD3 [DA,]2 :|2 (3 e2f2g2 (3 a2b2c'2 d'd3 d4 |]
 
-X:6
+X:7
 T:The Devil and the Dirk
 T:From Harp and Claymore
 C: J. Scott Skinner
@@ -87,7 +133,7 @@ K:D
 c' | d'ddd' c'ccc' | bBBb aAAa | gGGg fFFf | eBed c!<(!ea!<)!c' |
 d'ddd' c'ccc' | bBBb aAAa | geag fad'b | (af).g.e fdd || "^Last."!fermata![DA,]4 |]
 
-X:7
+X:8
 T:Jamie Shearer
 R: reel
 C: J. Scott Skinner
@@ -99,7 +145,7 @@ A | .d.c.B.A {c}d2(Ad) | cdAd .Be-e.g | .f.e.d.c {c}d2AF | GBEA FD[DA,] :|
 G | FAdA BGGf | gfed cAAG | FAde fdAF | GEAG FDD G|
 FAdA BGGf | gfed cABc | {c}d2(cd) BdAd | cbag fdd |]
 
-X:8
+X:9
 T:Sandy Grant
 T:From Harp and Claymore
 C: J. Scott Skinner
@@ -112,7 +158,7 @@ G | FDFA dAFA | (!<(!B=c)G!<)!=F !>(!E"_# in ms"=CG!>)!E | FDFA dABG | AFGE FDDG
 (B=c)G=F E"_# in ms"=CGE | FDFA dABg | fdec dDD || g| fdad fgad | cAeA cdeg |
 fdad fgaf | gfea fddg | fdad fgad | cAeA cdeg | !>!fdec dABG | AFGE FDD |]
 
-X:9
+X:10
 T:The Spinnin' Wheel
 T: From Logie Collection
 C: J. Scott Skinner
@@ -125,7 +171,7 @@ A | !>!!p!F>D D/D/D (FG).!<(!A!<)!.B | cdAd BEEA | F>D D/D/D (FG).!<(!A.!<)!B | 
 g| .f(dcd) ABcd | efgf eEEg | f(dcd) ABcd | egfe {c}dD[DA,]g |
 !f!.f(dcd) ABcd | efgf eEEG | F>D D/D/D (FG) .!<(!A.!<)!B | cdAd F"^Last."D!fermata![DA,] |]
 
-X:10
+X:11
 T:Tulchan Lodge
 T: From Logie Collection
 C: J. Scott Skinner
@@ -139,7 +185,7 @@ K:A
 g2 | aA3 c3e {g}a3"^[sic]"g c3A | DF3 B3c d3ef3g | aA3 c3e {g}a3e c3A | !>!def2 !>!Bcd2 !>!GAB2 (3e2f2g2 |
 aA3 c3e {g}a3e c3A | (D3F) (B3A) ({GA}G2F2) ({EF}E2D2) | (CE3) A3B .c.A3 !>!a3f |  (3e2f2e2 (3 d2c2B2 cA3 [AC]4 |]
 
-X:11
+X:12
 T:Emslie's Fiddle
 R: strathspey
 C: J. Scott Skinner
@@ -152,7 +198,7 @@ K:A
 g2 | {g}!>!a4 (e3Td) (cd).e.f {g}a4 | {^a}b4 (f3Te) def^a b3g | {g}!>!a4 (e3Td) (cd).e.g {g}(a3Tc) | (d2>>Tf2) (B2>>Tg2) {g}a4- a2 [g2] & x14 "_[sic]"z2 |
 {g}!>!a4 (e3Td) (cd).e.f {g}a4 | {^a}b4 (f3Te) def^a b3g | .!>!a.g.f.a .g.f.e.g .!>!f.e.d.f !>!.e.d.c.e | dcde fgae cA3 [AE]2 |]
 
-X:12
+X:13
 T:Miss Primrose
 T: From Harp and Claymore
 C: J. Scott Skinner
@@ -166,7 +212,7 @@ K:A
 c'2 | !>!e'2>c'2 .a2.c'2 e2c'2a2e'2 | d'2>b2 .g2.e2 d2B2G2b2 | !>!!0!e'2>c'2 a2c'2 e2a2c2a2 | bagf e2<!0!e'2 c'2<a2 [aA]2>c'2 |
 !>!e'3c' .a2.c'2 e2c'2a2c'2 | !>!d'3b .g2.e2 (dBG2) (EDB,2) | (A,2>>UC2) (E2>>UG2) {G}[AA]2>>c2 [ee]2>>a2 | .b.a.g.f e!0!e'3 c'a3 [aA]4 |]
 
-X:13
+X:14
 T:Happy Tom
 R: Strathspey
 M:C
@@ -177,7 +223,7 @@ K:A
 e2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 e2fg {g}a2A2[AE]2e2 |
 (abc'd' !0!e'2)a2 !3!f2!4!d'2!2!e2!3!c'2 | d2b2 c2a2 {cB^A}B3cd2B2 | A,B,!<(!CD E3!<)!G {G}[AA]4 a3A | dcBA GFED CA,3!turn!A,2 |]
 
-X:14
+X:15
 T:The £10 Fiddle.
 C: J. Scott Skinner
 R: reel
@@ -189,7 +235,7 @@ E | {G}A2 (ED) !<(!CEA!<)!f | eAfA GBBG | {G}A2 EC DFBA | !<(!GBe!<)!g !>(!aAA!>
 x2 ax GBBG & eAfA x4 | !>!A/A/A (EC) DFBA | !<(!GBe!<)!g !>(!aA !>)!A || !f!g | {g}!>!a/a/a (ea) .c.a.A.g | x3 a x4 & aece fBBg |
 !>!a/a/a (ec) !>!f/f/f (dB) | GBeg aAA(a | !ff!"_with force".g.a).e.a .c.a.A.a | caAa fBBc | {G}A2 (EC) DFBA | GBeg aA !fermata!A |]
 
-X:15
+X:16
 T:The Baker.
 C:J. Scott Skinner
 R:reel
@@ -200,7 +246,7 @@ K:A
 (d| c)AED CEAc | dFBA GBed | cAED CEAc | x3g aAA & dfBd cAA :| g | !f!a/a/a (Aa) fedc | BFBA !<(!GBe!<)!g |
 a/a/a (Aa) e/e/e (Aa) | fagb {g}aAAe | .a.A.a.g .f.e.d.c | .B.F.B.A .G.B.e.d | .c.A .E.D .C.E.A.c | dfBg {g}aAA |]
 
-X:16
+X:17
 T:The Left Handed Fiddler
 C: J. Scott Skinner
 R: reel
@@ -213,7 +259,7 @@ d | cAce {g}(a2ed) | cAEA GBBd | cAce aefd | ecdB cAAd | cAce {g}a2(ed) | cAEA G
 {a}BcdB !uppermordent!cAAg | !ff!"^neatly Cuckoo"a/a/a (Aa) caAc | caAa BcdB | "^Dance."cAdB eagf | ecdB cA!fermata![AE] |]
 "^Alternate last measures for Solo:"AEcA dBec | fdge {g}aA!fermata!A |]
 
-X:17
+X:18
 T:The Hurricane
 C:J. Scott Skinner
 R: reel
@@ -227,7 +273,7 @@ gaea ABcd | ecdB cAAa | gaea cAAa | gaAa fBBd | cABG !f!A"_D.C. and repeat 1st s
 GAEA .G(BB).d | (3(cBA (3BAG A).a.g.f & (c/B/A) (B/A/G) x4 | ecdB cA!D.C.!A || "^VAR. II."c | fgaf ^efcf | efge deBe | 
 fgaf !4!^efcf | gabg a(ff)c | fgag ^efcf | efge deBe | aefd ceAa | ecdB cAA |]
 
-X:18
+X:19
 T:Milladen
 T: From Harp and Claymore
 C: J. Scott Skinner
@@ -240,7 +286,7 @@ F | B2 d>B f>Bd>B | !<(![AA]>c[ee]>!<)!^g {g}a2 e>c | x6 x>g &B2 d>B c>^A B>=G |
 c |!>!d2 (f>e) dfad' | !>![AA]2 (c>B) Acea | B2 (d>c) Bdfb | f>ed>c (B2 !tenuto![BF])>c |
 !f!!1!d2 (!3!f>!tenuto!!1!d) (3!1!add' (3!1!a!3!f!1!d | [AA]2 (c>!tenuto!A) (3eca (3ecA | B2 d>B c>^AB>G | F>ED>C (B,2!tenuto!B,) |]
 
-X:19
+X:20
 T:Arbeadie
 C: J. Scott Skinner
 R: strathspey
@@ -252,7 +298,7 @@ A>G F>A D<D F2 | B>A G>B E<E G2 | A>G F>A D<D F2 | G>B C<A F<D D2 :|
 g | f/g/a (3gfe dFAd | (3gab (3agf eGBe | f/g/a (3gfe dFAd | (3cde (3bag f<d d>g |
 (3fga (3gfe dFAd | (3gab (3agf eGBe | f/g/a g/f/e (3dcB (3AGF | (3EFG (3ABc d<D D2 |]
 
-X:20
+X:21
 T:Clach-Na-Cuddin
 C:Var. by J.S.S.
 R: strathspey
@@ -266,7 +312,7 @@ d>fA>f d/e/f/g/ a>f | gAfA eAce | d>fD>f d/e/f/g/ af | dfeg fdfa | BgAf GeFd | G
 "^alternate for second-to-last-measure"B/g/g A/f/f G/e/e F/d/d|
 %%text *Bars 5-8 to be played _only_ when first 4 bars are not repeated.
 
-X:21
+X:22
 T:Drumin
 C: J. Scott Skinner
 R: strathspey
@@ -278,7 +324,7 @@ D<d-d>B A>FD>F | G>AB>A G/F/E/D/ C<E | D<(d!tenuto!d)>B A>FD>F | G/A/B/c/ d>A FD
 g | (f>ga).f dfAd | (g>ab).g egBe | (f>ga).f dfAd | .c/.B/.A/.^G/ Aa f<d!turn!y[dF]>=g |
 !f!(f>ga)f dfDd | (g>ab).g eg Ee | f/g/.a/.g/ .f/.e/.d/.c/ .d/.c/.B/.A/ .B/.A/.G/.F/ | .G/.A/.B/.c/ .d/.B/.A/.G/ F<D [DA,]2 |]
 
-X:22
+X:23
 T:Dr. Gordon Stables' Reel
 M:2/4
 L:1/16
@@ -292,7 +338,7 @@ fgaf gabg | efge fgag | {DA}!>(!fedc BAG!>)!F | GEAG FDD ||
 f | (DA)(.f.A) (G,B)(.g.B) | (A,c)(.g.c) (DA)(.f."_[sic]"E) | defg abc'd' | geag fddf |
 (3("^arpeggio"DAf) (3(.f.A.D) (3(G,Bg) (3(.g.B.G,) | (3(A,cg) (3(.g.c.A,) (3(DAf) (3(.f.A.D) | {DA}!f!!>(!fedc !>)!BAGF | GEAG FD[DA,] |]
 
-X:23
+X:24
 T:The Bride's Reel
 C: J. Scott Skinner
 R: reel
@@ -305,7 +351,7 @@ K:D
 .B,.D.A,.D !<(!.C.E.A!<)!.c | dcdA BGdB | AFGE FD"_[sic]"[DG,] || g | fgaf dAFD | GBed cAag |
 fgaf dAFD | GBAc dDDg | fgaf dAFD | GBed cABc | !<(!dfeg fag!<)!b | afge fd[dF]2 |]
 
-X:24
+X:25
 T:The Auld Wheel
 C: J. Scott Skinner
 R: reel
@@ -317,7 +363,7 @@ A |d/d/d (AGFG) .A.d | B/B/B (ed) cAAc | d/d/d (AF) GABd | cdec dDDA | d/d/d (AG
 B/B/B (ed) cAAc | d/d/d (AF) GABg | fedc dDD || !f!g | !>!fDFA dfaf | !>!eEGB efge |
 fDFA dfaf | efga fddg | fDFA dfaf !>!eEG!<(!B efg!<)!a | !>(!bagf edcB | AGF!>)!E DABc & x4 D2-D!D.S.!||
 
-X:25
+X:26
 T:The Glenlivet
 C: J. Scott Skinner
 R: strathspey
@@ -331,7 +377,7 @@ K:A
 g | {g}a>A c<f [ee]>Ac>A | ([EC]>NA) c>A B<B,"_~""_#"B,>g | {g}a>A c<f [ee]>Ac>A | [EC]>A G<e c<A !>![AC]>g |
 {g}a>A c<f e<A {g}a>A | e>Ac>A B<B,"_~""_#"B,>C | (A,>>CE>>)C ([DD]>>F[AA])>>F | ([EC]>NA) (G<e) c<A [AC]2 |]
 
-X:26
+X:27
 T:Alice's Dollie
 C: J. Scott Skinner
 R: strathspey
@@ -343,7 +389,7 @@ c | e>fe>d c<dA>c | d>ef>e d<f zg | a>g {g}fa e<a c>A | B>AG>F E<A z :|
 G | A>ec>e A>ec>A | B>fd>f B>fd>B | A>ec>e A>ac>A | B>AG>F E<A zG |
 x7 a &A/A/e c>e A>e "^or"c>A  | x7 b & B/B/f d>f B>fd>B | (3cde (3def (3exa(3fxx & x4 (3eca (3ecA | e>cd>B c<A z & B>cG>F E<A|]
 
-X:27
+X:28
 T:Bogniebrae.
 T: From Logie Collection
 C: J. Scott Skinner
@@ -357,7 +403,7 @@ E | ([EC]>NF) (A>NB) {AB}(c>NB) (A>F) | (E>NF) (A>NB) (c>B) B>c | !>!(A,>NA) (A>
 f | !>!e>a f<a e<a A/a z/ | c>e{g}a>e f<(BNB>f) | e>a f<a e<a A<a | !>!(C>NE) (A>NB) c<(A!>!A>f) |
 !>!e>a f<a e<a A<a | c>e{g}a>e f<(B!>!B<d) | c/e/!>!a B/d/!>!g A/c/!>!f G/B/!>!e | (3FBd (3GBe c<A "^^"[AC] |]
 
-X:28
+X:29
 T:Talisker
 T: From Logie Collection
 C: J. Scott Skinner
@@ -371,7 +417,7 @@ K:A
 a | b>g a>f e<A (c>d) | (e>A {A}a>c) {e}f>B B>a | (b>g a>f) (e<A c>d) | (e>A {A}a>e) c>A A>a |
 (b/a/)g {g}a>f e<A c>d | (e>A {A}a>e) {ga}f>B B>c | (A2 NA>)a e<A c>e | (d/c/B) e<a c>A A2 & x2 e<d|]
 
-X:29
+X:30
 T:Scott Skinner
 % One cannot avoid the feeling that this attribution is how J.S.S. lived, psychologically:
 C: By Himself
@@ -386,7 +432,7 @@ K:A
 EAGA cBBc | !<(!AcBd ced!<)!f | ecdB cAA || e |c/c/c (Ae) c/c/c (Aa) | EAGA cBBe |
 c/c/c (Ae) ceAa | ecdB cAAe |c/c/c (Ae) c/c/c (Aa) | EAGA cBBg | {g}!f!!<(!a2(g!<)!a) ecAF | N.EN.CN.DN.B, .NC.NA,.NA, |]
 
-X:30
+X:31
 T:Davie Work
 C: J. Scott Skinner
 R: reel
@@ -398,7 +444,7 @@ E | {G}!>![AA]2cA (GA).B.c | dFBA GBeg | {g}a2(ga) .f.e.d.c | dBed [cE]A[AE] :|
 g | aAag fedc | bBba gefg | aAag fedc | dfeg aA[AE]g |
 aAag fedc | bBba gfed | cAdB ecfd | eagb {g}aA!fermata!"^Last."A |]
 
-X:31
+X:32
 T:The Marquis of Tullybardine
 C: John Crerar
 R: reel
@@ -411,7 +457,7 @@ A/A/A (cA) eAAf | !crescendo(!eAAa fedc | defa fecf | edc!crescendo)!B fefg |
 {g}a>A A/A/A (cA).A.g | a>A A/A/A (fe).d.c | b>B B/B/B (dB).B.f | b>B B/B/B (fe).f.g |
 {g}a>A A/A/A (cA).A.g | a>A A/A/A (fe).d.c | defa fecf | edcB {fa}f2 (ea) !segno!|| "_Last."!fermata![AE]8 |]
 
-X:32
+X:33
 T:David Adams
 C: J. Scott Skinner
 R: reel
@@ -422,3 +468,61 @@ K:A
 E | A/A/A (cA) !<(!.G.A.B!<)!.c | !>(!dcB!>)!A GEFG | A/A/A (cA) .B.c.d.f | ecdB cAA{g}a | A/A/A (cA) .G.A.B.c |
 .d.c.B.A .G.F.E.G | .A.c.E.c .A.B.c.d | e2f2g2a2 & ecdB cAAg | !>!!f!aAag fddf | !>!bBba geeg | aAag fdaf |
 ecdB cAAg | a/a/a (Aa) fddf | b/b/b (Bb) geeg | .a.g.a.e .f.a.e.a | eagb {g}aAA & ecdB cA"_D.C."A || !<(!y !<)!!>(!!fermata!"^Fine."[AE]8 !>)!y|]
+
+X:34
+T:The Laird o' Drumblair
+T: From the Harp and Claymore
+C: J. Scott Skinner
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+U: N=!tenuto!
+K:A
+"^Fire and force."E | {G}[AA]2 c>A [EA,]<Ac>A | {A}(a2g>)a f>ae>c | (3"_Springing Bow."!<(!.d.e.f (3.e.f!<)!.g (3!>(!.a.e.d (3.c.B!>)!.A | (3.B.c.d (3.c.B.A (3.G.F.E (3.d.c.B |
+{G}[AA]2 c>A [EA,]<A c>A | {A}(a2g>(a) f)>(ae)>c | (3.d.e.f (3.e.f.g (3.a.e.d (3.c.B.A | (3GFE (3dcB {G}([AA]2!>!A) ||
+g | {g}"_A drone _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _  "a2 (e>Na) c>a A>a & A8 | (c/B/A) (e>Ng) a>A ca | "_B _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ "x5 b x b & B8 & {^a}b2 f>b d>f B>f | (d/c/B f)>B {^a}b>B d<b |
+{g}a2 e>a (c>>Na) A>>a | (c/B/A) e>g a>Ac>A |  (3"_Springing Bow."!<(!.d.e.f (3.e.f!<)!.g (3!>(!.a.e.d (3.c.B!>)!.A | (3GFE (3dcB {G}([AA]2[AE]) & x2 (3DCB, (A,2 A,) ||  !<(!y !<)!!>(!"^Fine."[AE]8 !>)!y !fermata!|]
+
+X:35
+T:Buckingham House
+T: Commonly Called Athole Frose.
+C: A. Mackintosh.
+C: Var. by J. Scott Skinner
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:A
+"^Original Key D."e |: c>A A/A/A [EA,]>A A>d | c>A A/A/A {g}a>e fd |   !>!c>A A/A/A [EA,]>A A>=c | (B/=c/d) =G>f {f}g>d B<d :|
+K:A minor
+|: A<aa>a a<ba>g & A8 | e<aa<b c'>ab>g & A8 | a>bc'a b^ga^f & A8 | {f}!f!"^*"[G,DGg]>e d<g B<[GG,] d>B :|
+K:A
+|: !>!c>A A/A/A !>![EA,]>A A/A/A | c>A A/A/A (3agf (3efd | !>!c>A A/A/A !>![EA,]>A A/A/A | B>=G "_D.C. to 2nd Strain."G/G/G (3gfe (3dcB :|
+%%text * the lowest three notes of this chord are undersize in the original
+
+X:36
+T:MacAllan
+C: J. Scott Skinner
+R: strathspey
+M:C
+L:1/8
+U: N=!tenuto!
+Z: Jason R. Fruit <jason@gmail.com>
+K:A
+D | C<E {G}(A>NB) (c/B/).A/.G/ {G}A>c | d>ef>e (d/c/).B/.A/ G<B | (C<E) ([AA]>NB) (c/B/).A/.G/ A>a | f/g/a/f/ ea {cd}cA[AE] :|
+g | {g}(a>NA) .c/.d/.e (f>.a)(e>a) | (d>a)(c>a) {Bc}B>A G<B | {g}(a>NA) .c/.d/.e (f>.a)(e>a) | d>fB>e {cd}c>A[AE]>g |
+{g}(a>NA) .c/.d/.e (f>a)(e>a) | (d>a)(c>a) {Bc}B>AG<B | (3.A.B.c (3.d.c.B (3.c.d.e {g}a>g | (f/g/a) (e>a) {cd}cA[AE] |]
+
+X:37
+T:Forbes Morrison.
+T: From Logie Collection
+C: J. Scott Skinner
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:A
+d | c<A {F}E>D C>EA,>C | {C}[DD]2 (B>A) (3Gfe (3dcB | c<A {F}E>D C>EA,>C | (3DFB (3GEG {G}([AA]2[AE]) :| 
+g | a>f g>e f<de>c | d>Bc>A (3Bcd (3efg | a>fg>e f<de>A | (3Gfe (3dcB {G}([AA]2[AE])>g |
+"^Solo or Dancing."(3afa (3geg (3fdf (3ece & a>f g>e f>d e>c | (3dBd (3cAc (3!<(!Bcd (3!<)!efg & d>B c>A x4 | (3"_Springing Bow.".a.g.a (3.e.f.g (3.a.e.d (3.c.B.A | (3.G.f.e (3.d.c.B {G}([AA]2[EA] & (3GFE (3DCB, (A,2 A,) |]
