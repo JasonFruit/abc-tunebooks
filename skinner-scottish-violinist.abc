@@ -35,6 +35,9 @@ X:1
 %%center J. Scott Skinner,
 %%textfont Times-Roman 16
 %%center The Greatest Exponent of our National Music.
+%%textfont Times-Roman 8
+%%center [Yes, he put that on the title page, too.]
+%%textfont Times-Roman 16
 %%begintext
 %%
 %%
@@ -102,7 +105,7 @@ M:4/4
 L:1/16
 Z: Jason R. Fruit <JasonFruit@gmail.com>
 K:D
-(!p!D3!tenuto!E) (FB3) AF3 "^2 down"(D4 | B,3)E GFED !downbow!C("_(~ in ms.)"A,3 {B,A,^G,}A,3C) | (D3!tenuto!E) (FB3) (AF3) "^3 down [sic]"(D4 | B,3)D (CA3) F(D3 !tenuto!D4) :|
+(!p!D3!tenuto!E) (FB3) AF3 "^2 down"(D4 | B,3)E GFED !downbow!C("_(~ in ms.)"A,3 {B,A,^G,}A,3C) | (D3!tenuto!E) (FB3) (AF3) "^3 down"(D4 | B,3)D (CA3) F(D3 !tenuto!D4) :|
 (!ff!A3!tenuto!G) (Fd3) B(G3 !turn!G4) | (!>!B3!tenuto!A) (^Ge3) !downbow!c!upbow!A3 (!upbow!A3B) | (A3!tenuto!G) (Fd3) B3A (GB3) | c3B (Aa3) !downbow!f!upbow!d3 (!upbow!!turn!d3B) |
 (A3!tenuto!G) (Fd3 B)(G3 !turn!G4) | (B3!tenuto!A) (^Ge3 c)!upbow!A3 (!upbow!A3c) | \
 L: 1/8
@@ -573,3 +576,29 @@ g | {DA}f>gaf .d.A.F.D | g>abg .e.B.G.E | f>ga.f .d.A.F.D | C/D/E/F/ G/E/A/G/ FD
 {DA}f>gaf .d.A.F.D | {G,B}g>abg .e.B.G.E | {C}[DD]2 F>D .B,.D .G,.B | A/B/c/d/ A/F/G/E/ FD[DA,] ||
 "^Var. to 2nd Strain only"!>!g | f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ |  f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/ D/!tenuto!d/ |  C/D/E/F/ G/E/A/G/ FD[DA,]g |
 !>!f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ & x7 E/C/ | {C}[DD]2 F>D B,D G,!fermata!B | A/B/c/d/ a/f/g/e/ fdd |]
+
+X:41
+T:Peter Baillie
+C: Scott Skinner's Set
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+U: N=!tenuto!
+K:E minor
+{^d}e | (B<E) !trill!B>A B<E B>^c | {^c}d>B A<d F<D A>d | B<E {c}B>A B<E !trill!B>A | (3B^cd (3AFA B<E"_~""_#"E :|
+f | !>!g>f e<b g<e !>!b>g | !>!f>e d<a f<d !>!a>f | g>f e<b g<e!>!b>g | x2 ^db x4 & f>e^d<f g<e e>f | 
+(g>Nf)(e>Nf) g/a/b e/f/g | (f>Ne) (d>Ng) f/g/a d/e/f | g/!>(!a/b f/g/a (3ef!>)!g (3FGA | (3B^cd (3AGF G<E!turn!E !D.C.!|
+{^d}"^Var."e | BE B/A/G/F/ BE B/A/G/F/ | {^c}d>A B/^c/d/A/ F/G/A/F/ Dd |BE B/A/G/F/ BE B/A/G/F/ | (3B^cd (3AFA B<E [EB,] :|
+
+X:42
+T:Lady Catherine Stewart
+T: or "The Haughs o' Cromdale."
+R: strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:E minor
+{^d}e | B<E !uppermordent!B>A !uppermordent!B>A F>A | B<E"_~""_#"E>F [DD]>EF>A | B<EB>A B>AF>A | {B}d>B {B}A>F {F}E2 [EB,] :|
+F |!f![DD]>dd>e (d/^c/).B/.A/ {^c}d z | F<(A.A)>B {B}A>F {F}A2 | B<(e.e>)!tenuto!f g>f {f}e>d | {B}d>B {B}A>F {F}(E2 .E)>F |
+!ff![DD]>dd>e (d/^c/).B/.A/ d2 | F<AA>B {B}A>F {F}A2 | B<(e.e>)f g>f{f}e>^d | eb (b/a/).g/.f/ {f}(e2.e) |]
