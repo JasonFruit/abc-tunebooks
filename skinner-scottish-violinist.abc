@@ -602,3 +602,43 @@ K:E minor
 {^d}e | B<E !uppermordent!B>A !uppermordent!B>A F>A | B<E"_~""_#"E>F [DD]>EF>A | B<EB>A B>AF>A | {B}d>B {B}A>F {F}E2 [EB,] :|
 F |!f![DD]>dd>e (d/^c/).B/.A/ {^c}d z | F<(A.A)>B {B}A>F {F}A2 | B<(e.e>)!tenuto!f g>f {f}e>d | {B}d>B {B}A>F {F}(E2 .E)>F |
 !ff![DD]>dd>e (d/^c/).B/.A/ d2 | F<AA>B {B}A>F {F}A2 | B<(e.e>)f g>f{f}e>^d | eb (b/a/).g/.f/ {f}(e2.e) |]
+
+X:43
+T:Currie's Rambles
+C:
+R: Slow strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+U: M=!uppermordent!
+K:D
+A, |: {C}[DD]2 F>D A>D F<A | B<dc<e d>{ed}cd>f | f<dc<d B<GMB>A |1 (GF) {F}(ED) CECA, :|2 G>E (G/F/).E/.D/ CE [DA,] ||
+G | FA G>B (B/A/).G/.F/ (G/F/).E/.D/ | F<A G>B A2-A>A | Adfd (cd) MBA | (MGF) (MED) (CD) EG |
+(F/E/D) AD BD cD | dDeD fD g>b | (3!>(!afd (3gec (3fdB (3ec!>)!A | (3!0!d!3!B!1!G (3AFD .!tenuto![EC]2 .!tenuto![DA,] |]
+
+X:44
+T:Will's Reel
+R: reel
+C: J. Scott Skinner
+M:2/4
+L:1/16
+Z: Jason R. Fruit <jason@gmail.com>
+K:F# minor
+C | F^EFG A2(GF) | GBec BGEG | ABcd c2BA | GF^EG AF[FC]C |
+F^EFG A2(GF) | GBec BGEG | "^*"Acaf ecBA | GF^EG AF[FC] ||
+E | !<(!Ace!<)!g !>(!aec!>)!A | BAGF ^EGcB | !<(!Ace!<)!g !>(!aec!>)!A | Bdc^e fFFG |
+.A.c.e!f!g aecA | BAGF ^EGCc | Ace!f!g aefd | ecdB cAA |]
+%%text * in ms. line 2 is a repeat of line 1 with an ossia in the 3rd measure
+
+X:45
+T:Scott Skinner's Rockin' Step.
+T: From Harp and Claymore.
+C:J. Scott Skinner
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:Hp
+K:^f^c=g
+"^Strathspey.""^Energetically and vigorously."e | c>e A/A/e c>e A>e | c>e .A/.A/e .A/.A/e !>!a>e | c>e .A/.A/e .c/.e/e .A/.e/e | G,/B/B !>!g/B/B {B}(d2!tenuto!d) :|
+{g}f | e>a c>a .A/.A/.A {g}a2 | A/A/A {g}a2 {fa}(f2 "_up"e)<a | e>ac>a A/A/A !turn!g2 | !>!G,/B/B g/B/B {B}(d2!tenuto!d) f |
+e>a c>a A/A/A {g}!>!a2 | A/A/A {g}(a2 {fa}f2)"_up".e/.f/.g | !>!a/f/a !>!g/e/g !>!f/d/f !>!e/c/e | !>!G,/B/B !>!g/B/B {B}(d2 !tenuto!d) |]

@@ -1,0 +1,186 @@
+X:1
+T:The Bonnie Lass o' Bon-Accord
+T: From Logie Collection
+C: J. Scott Skinner
+R: air, variations
+M:4/4
+L:1/16
+Q:1/4=64
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:A
+!f!E2 | A3B {AB}c3B .A2.A,2C2E2 | !2!A{BA}G!<(!(A!3!f) ec{c}B!<)!A !>(!{A}B4-B3!>)!c | A3B {AB}c3B .A2.C2.E2.=G2 |
+(FDFA) (GE!1!G!3!B) !2!A4-A2 :| (3("heroic"efg) | (!>!a3!tenuto!c) (d2f2) .e2.A2 !0!a2(!4!gf) | .e2.A2 (fe)(dc) {c}B4-B2 (3(!<(!ef!<)!g) |
+a3c d2f2 e2A2 a2 "plaintive"=G2 | (FDFA) (GEGB) A4-A2 (3(efg) | (a3!tenuto!c) (d2f2) .e2.A2 a2(gf) |
+.e2.A2 {Ag}(fe)(dc) {c}B4-B3c | (A,CEA !4!.c3)!3!.B .A2.C2.E2.=G2 | (FDFA) (GE!1!G!3!B) A4-A2 ||
+"VAR"!p!E2 | {AB}(AGAB) {AB}(cBAG) .A (A,B,C DEFG) | (AGAf) (ec{c}BA) ({A}B4!tenuto!B3c) | !f!(AGAB) cBAG .A (A,B,!1!C DEF!0!=G) |
+(FDFA) GEGB A4-A2 :| (3!<(!(ef!<)!g) | !>!!>(!a.g.f.e .d.!>)!c.B.A eAcA !>!a(GA).B | cAeA aedc {c}(B4 !tenuto!B2) (3(!<(!ef!<)!g) |
+.a.g.f.e .d.c.B.A eAcA !0!a(GA=G) | (FDFA) (GEGB) A4 A2 (3(efg | !>(!a).g.f.!>)!e .d.c.B.A eAcA a2(gf)
+eG(Aa) (fe)(dc) {c}B4-B3c | (A,CEA "_7 down"c!4!e!4!!0!a)(g "_9 up"aecA G!4!AE=G) | ("_rall."FDF!2!A G!4!f)(!3!!fermata!eG) {G}"_3rd Corde"A4-A2 ||
+K:Aminor
+!p!"_sadly""^Minor."E2 | A3B {AB}c3B A2A,2C2E2 | (A^GAB cAdc) (B4!tenuto!B2)E2 | A3Bc3B "^2nd"A2c2d2f2 & x8 A2C2D2F2 |
+({ef}ed"^3rd Corde"ef) (e2^G2) A4-A2 & ({EF}EDEF) (EDCB,) A,4-A,2 :| (3(e^f^g) | (a3=g)(.=f2.e2) .f2.e2.d2.c2 | (cBAB cAdc) B4-B2 (3(e^f^g) |
+%page2
+(a3gf2.e2) (dcBc defd) | (edef edcB) A4-A2 (3(e^f^g) | (a3gf2.e2) .f2.e2.d2.c2 |
+(cBAB cAdc) (B4 !tenuto!B2) !upbow!^c2 | (!<(!A,^CEA ^ce!0!a)(!<)!^g !>(!aecA GAE!>)!=G) | (!<(!"^rall."^FDFA ^G!<)!!4!f)!fermata!e!2!!>(!^g {g}a4-!>)!a2 :|
+
+X:2
+T:Archibald MacDonald of Keppoch
+O:England
+M:3/4
+L:1/8
+S:Alasdair Fraser
+R: Air
+K:D minor
+DE|F3 G A2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4:|
+de|f3 e d2|c3 _B A2|_B3 A G2|A4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4 fg|
+a3 g f2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 g a2|A d3 ^c2|d4|]
+
+X:3
+T: Nathaniel Gow's Lament for His Brother
+Q: "Pathetically slow."
+R: air
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.113 #3
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/16
+K: Am
+AB |\
+{AB}c3BA2 (e2B2d2) | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 (e2^f2g2) | B2G2G2 G4 GB |
+{AB}c2B2A2 ({^G}e2B2d2) | c2e2a2 e4d2 |\
+c3BA2 E2A2^G2 | B2A2A2 A4 :|
+e2 |\
+a2^g2a2 e2(=gf)ed | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 e2^f2g2 | B2G2G2 G4e2 |
+a2^g2a2 e2(=gf)ed | c2A2A2 A2e2d2 |\
+c3BA2 E2A2^G2 | B2A2A2 A4 e2 |
+a2^g2a2 e2(=gf)ed | .c2.A2.A2 A4 AB |\
+{AB}c2B2A2 e2^f2g2 | B2G2G2 G4e2 |
+(a2e2).g2 (f2d2).B2 | (e2c2).A2 B2^G2E2 |\
+A2B2c2 B2(ed)cB | c2A2A2 A4 |]
+
+X:4
+T:Niel Gow's Lament for his Second Wife
+Z:Jack Campin, 2006, http://www.campin.me.uk/
+M:6/4
+L:1/4
+Q:3/4=36
+K:D
+  D/B,/ |A,>B,D D>ED|EFA           B2      d   |A>FD          E>DE        |{DE}F>DB, B,2
+  D/B,/ |A,>B,D D>ED|EFA           d2      c/B/|A>FD       {C}B,2     A,  |    B,DD  D2:|
+(3A/B/c/|dfd    ec.A|B/A/B/c/{Bc}d B/A/G/F/E/D/|E>DE      {DE}F>ED        |    F>DB, B,2
+(3A/B/c/|df.d   ec.A|B/A/B/c/{Bc}d B/A/G/F/E/D/|E>DE      {DE}F>DB,       |    A,DD  D2
+(3A/B/c/|df.d   ec.A|B/A/B/c/{Bc}d B/A/G/F/E/D/|F/D/A/F/d/A/  B/A/G/F/E/D/|{DE}F>EE  E2
+  D/B,/ |A,>B,D D>ED|EF.A          d2      c/B/|AFD        {C}B,2     A,  |    B,DD  D2|]
+
+
+% Waltzes
+% -------
+
+X:5
+T:Well May Charlie Wear the Crown
+T:Gu ma maigh thig an crùn dha Tearlach
+M:4/4
+L:1/8
+R: Slow air
+Z: Jason R. Fruit <jason@gmail.com>
+S: Transcribed from playing of Ron Gonnella
+K:Bminor
+fe | {c}d2 {cd}c>B Bc {Bc}dD | FA {B}A2 {AB}A2 {ea}fe | {c}d2 {cd}c>B Bc {Bc}d^E | F2 B>c {Bc}B2 fe |
+{c}d2 {cd}c>B Bc {Bc}dD | F2 A2 {A}a3g | {fg}f>e d>c B>c {Bc}d^E | {^EG}F2 B>c {Bc}B2 :| 
+{Bc}B/A/B/c/ | d>c d>e {d}f3 e | {ef}e>d c>B {B}A2 {fg}f>e | d2 {cd}c>B Bc {Bc}d^E | {^EG}F2 B>c {Bc}B2 Bc | 
+{de}d>c d>e {d}f3 e | {ef}e>d c>B {A}a2- a>g | {fg}f>e d>c B>c {Bc}d^E | {^E}F2 B>c {dc}B2 |]
+
+X:6
+T: Sitting in the Stern of a Boat
+C:William McLeod
+M:C
+L:1/8
+Z: Jason R. Fruit <jasonfruit@gmail.com>
+K:G
+DE | G>AGF E2 DG | B>c ({Bc}d>)B A2 GE | D>EGA  B2 g>d | B2 A2 G2:|
+g2 | e>def g3  b | a>gab   e2 d>B | d(e/f/) g>a g>a (g/a/).g/.f/ | e>^d e(f/g/) e2
+g2 | e>dBd g2 B<b | g<ed>B  A2 G>E | D>EGA B2 (.g/.e/.d/.c/) | B2 A2 G2|]
+
+X:7
+T:Laird o' Drumblair, The
+M:C
+L:1/8
+R:Strathspey
+N:"(Play with) Fire and force"
+C:J. Scott Skinner
+B:Harp and Claymore Collection
+Z:AK/Fiddler's Companion
+Q:172
+K:A
+E | "A"{G}[A2A2] c>A E<A c>A | "A"{^g}a2 g>a f>ae>c | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A | "Bm"(3.B.c.d (3.c.B.A "E"(3.G.F.E (3.d.c.B |
+"A"{G}[A2A2] c>A E<A c>A | "A"{^g}a2 g>a f>ae>c | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A |"E" (3GFE (3dcB "A"{G}[A2A2] A :|
+|: e | "A"{g}a2 e>a c>aA>a | "A"c/B/A e>g "F#m7"a>A c<a | "Bm"{^a}b2 f>b d>fB>f | "Bm"d/c/B f>B "E"{^a}g>B d<b |
+"A"{g}a2 e>a c>a A>a | "A"c/B/A e>g a>Ac>e | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A | "E"(3GFE (3dcB "A"{G}[A2A2] [EA] :|
+
+X:8
+T:The Warrior o' Persie
+C: J. Scott Skinner
+R: air, strathspey
+M:C
+L:1/8
+Z: Jason R. Fruit <jason@gmail.com>
+K:D
+"^1st Slow Air""^2nd Accented Style. - Slow and Bold Strathspey\n"A, | {C}[DD]2 FD A,DFD | G/A/B/c/ dD CE E>F | {C}[DD]2F>D B,D .G,.B | A/B/c/d/ A/F/G/E/ FD[DA,] :|
+g | {DA}f>gaf .d.A.F.D | g>abg .e.B.G.E | f>ga.f .d.A.F.D | C/D/E/F/ G/E/A/G/ FD[DA,]g |
+{DA}f>gaf .d.A.F.D | {G,B}g>abg .e.B.G.E | {C}[DD]2 F>D .B,.D .G,.B | A/B/c/d/ A/F/G/E/ FD[DA,] ||
+"^Var. to 2nd Strain only"!>!g | f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ |  f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/ D/!tenuto!d/ |  C/D/E/F/ G/E/A/G/ FD[DA,]g |
+!>!f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ & x7 E/C/ | {C}[DD]2 F>D B,D G,!fermata!B | A/B/c/d/ a/f/g/e/ fdd |]
+
+X:9
+T:Headlands March
+M:C|
+L:1/8
+R: march
+Q:1/2=60
+K:A
+e>c|:d>cB>A A<cE>A|F>Ad<f e2 (3efg|a>ef<a f>ed<c|c>BA<c B2 e>c|
+d>cB>A A<cE>A|F>Ad<f a2 g>f|e<aA>c B>fe>d|1 c2 A2 A2 e>c:|2 c2 A2 A2 (3efg||
+a>ef<a c<ec>A|d>Ad<f e2 (3efg|a>ef<a f>ed<c|
+|1 c>BA<c B2 (3efg|a>ef<a c<ec>A|d>Ad<f a2 g>f|e<aA>c B>fe<d|c2 A2 A2 (3efg:|
+|2 c>BA<c B2 e>c|d>cB>A A<cE>A|F>Ad<f a2 g>f|e<aA>c B>fe>d|c2 A2 A2 |]
+
+X:10
+T:Drummond Castle
+M:6/8
+L:1/8
+S:AABB
+R:Jig
+O:James Hunter
+B:The Fiddle Music of Scotland
+Q:3/8=120 
+K:Am
+E | A>BA a3 | a>ge g3 | c2 c e>dc | B>dg dBG | 
+A>BA a3 | a>ge g3 | e>ge deg | edB A2 :| 
+|: B | c2 c c>ec | d2 d d>ed | c2 c e>dc | B>dg dBG | 
+c2 c e>dc | d>eg a2 g | e>ge deg | edB A2:|
+
+X:11
+T:Grantully Bridge
+R:Strathspey
+B:The Athole Collection 
+M:C
+L:1/8
+K:Bb
+D|B,>DF>A ~B>F G<B|F<B, F>D C2 C>D|B,>DF>A B>FB>g| F<B c>d B2B:|
+(3f/g/a/|b>fd>f B>dB>F|G>BF>D C2 C>f|b>fd>f B>cB>F|
+G>BA>c Bc/d/ e/f/g/a/|b>fd>f ~B>cB>F|G<B F>D C2 C>D| B,>DF>A B>FG>g|F>Bc>d B2B|]
+
+X:12
+T:Up And War Them A', Willie
+C: Niel Gow collection
+R: Medley (reel)
+M:C|
+L:1/8
+Z: Jason R. Fruit <jasonfruit@gmail.com>
+K:A
+e | A/A/A cA d2-df | A/A/A cA !trill!B2-B>c | A/A/A cA defa | edcB A3e |
+A/A/A cA d2 (.d.f) | A/A/A cA !trill!B2 B>c | A/A/A cA defa | edcB A3 || g |
+afec d2 df | (a/g/f/e/) a>c !trill!B2 Bg | afec defa | edcB A3 g|
+(a/g/f/e/) ac d2 df | (a/g/f/e/) ac !trill!B3 g | aefc defa | edcB A3 |]
