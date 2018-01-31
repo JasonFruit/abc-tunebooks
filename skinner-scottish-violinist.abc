@@ -642,3 +642,42 @@ K:^f^c=g
 "^Strathspey.""^Energetically and vigorously."e | c>e A/A/e c>e A>e | c>e .A/.A/e .A/.A/e !>!a>e | c>e .A/.A/e .c/.e/e .A/.e/e | G,/B/B !>!g/B/B {B}(d2!tenuto!d) :|
 {g}f | e>a c>a .A/.A/.A {g}a2 | A/A/A {g}a2 {fa}(f2 "_up"e)<a | e>ac>a A/A/A !turn!g2 | !>!G,/B/B g/B/B {B}(d2!tenuto!d) f |
 e>a c>a A/A/A {g}!>!a2 | A/A/A {g}(a2 {fa}f2)"_up".e/.f/.g | !>!a/f/a !>!g/e/g !>!f/d/f !>!e/c/e | !>!G,/B/B !>!g/B/B {B}(d2 !tenuto!d) |]
+
+X:46
+T:Angus Macrae
+C:J. Scott Skinner
+M:C
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+R: Pipe strathspey
+K:AMixolydian
+{f}e<e c>e A<{G}A c2 | d<d B>d G>"_1""^2"d B/c/d & x6 B>d | e<e c>e A<A c2 | "^2"d/e/f B>e cAA a & "_1"d>f x4 x z :|
+e | a>f e>a A<{G}A c>e | g>e d>g G<{A}G B>g | a>f e>a A>a c>a | d>a B>e c>A A>e |
+a>f e>a A<{G}A c>e | g>e d>g G<{A}(G B/c/d) | e<e c>e A/e/e c/e/e | d/f/f xa/a/ x4 & x2 B/e/e c!turn!AAz |]
+
+X:47
+T:Angus Campbell
+C: J. Scott Skinner
+R: Concert Reel
+Q: 1/4=136
+M:2/4
+L:1/16
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:A
+"^Concert Reel"E !segno!|| A/A/A (cA) !<(!E.A.c!<)!.e | a2(ga) faec | !>!d/d/d (Bd) !>!c/c/c (Ac) | BFBA GEFG |
+A/A/A (cA) !<(!E.A.c!<)!.e | a2(ga) faec | "^Gradually louder."defd !<(!ceaf | !<)!ecdB A.e!<(!.f.g ||
+{g}!<)!!f!a2(ea) .c.a.A.a | .c.A.c.e .a.A.c.a | {^a}b2(fb) dbBb | dBdf bBdb |
+{g}!ff!a2(ea) .c.a.A.a | !<(!cAc!<)!e !>(!aec!>)!A | defd ceaf | ecdB A4 & x4 AEFG !segno!||
+
+X:48
+T:Hamilton's
+T: From the Harp and Claymore
+C: J. Scott Skinner
+M:C
+L:1/8
+R: strathspey
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:D
+"In a lilting Style."(A,>DF>D) (A>D dc/B/) | A>DF>D C<E{FE^D}"^*"E>F | (A,>DF>D) (A>D dc/B/) | (A>FG>E) (F<E[DA,]):|
+g | (3.f.g.a (3.g.f.e dA FD | .A,.D.F.A G<E{FE^D}E>g | (3.f.g.a (3.g.f.e (3.d.e.f (3.e.d.c | (3.B.c.d (3.A.B.c d<D[DA,]>g |
+(3.f.g.a (3.g.f.e dA FD | .A,.D.F.A B<E{FE^D}E>F | A,DFD .G/.B/.d/.g/ !>!b>g | fd ea f<d [dF]2 |]
