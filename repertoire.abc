@@ -1,4 +1,8 @@
 X:1
+T:SLOW AIRS
+K:A
+
+X:2
 T:The Bonnie Lass o' Bon-Accord
 T: From Logie Collection
 C: J. Scott Skinner
@@ -23,19 +27,19 @@ K:Aminor
 (a3gf2.e2) (dcBc defd) | (edef edcB) A4-A2 (3(e^f^g) | (a3gf2.e2) .f2.e2.d2.c2 |
 (cBAB cAdc) (B4 !tenuto!B2) !upbow!^c2 | (!<(!A,^CEA ^ce!0!a)(!<)!^g !>(!aecA GAE!>)!=G) | (!<(!"^rall."^FDFA ^G!<)!!4!f)!fermata!e!2!!>(!^g {g}a4-!>)!a2 :|
 
-X:2
+X:3
 T:Archibald MacDonald of Keppoch
-O:England
 M:3/4
 L:1/8
-S:Alasdair Fraser
+C: Pub. Capt. Simon Fraser
+C: playing of Alasdair Fraser
 R: Air
 K:D minor
 DE|F3 G A2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4:|
 de|f3 e d2|c3 _B A2|_B3 A G2|A4 DE|F3 G A2|f3 e d2|A d3 ^c2|d4 fg|
 a3 g f2|f3 e d2|c3 A F2|G4 DE|F3 G A2|f3 g a2|A d3 ^c2|d4|]
 
-X:3
+X:4
 T: Nathaniel Gow's Lament for His Brother
 Q: "Pathetically slow."
 R: air
@@ -60,7 +64,7 @@ a2^g2a2 e2(=gf)ed | .c2.A2.A2 A4 AB |\
 (a2e2).g2 (f2d2).B2 | (e2c2).A2 B2^G2E2 |\
 A2B2c2 B2(ed)cB | c2A2A2 A4 |]
 
-X:4
+X:5
 T:Niel Gow's Lament for his Second Wife
 Z:Jack Campin, 2006, http://www.campin.me.uk/
 M:6/4
@@ -78,7 +82,7 @@ K:D
 % Waltzes
 % -------
 
-X:5
+X:6
 T:Well May Charlie Wear the Crown
 T:Gu ma maigh thig an crùn dha Tearlach
 M:4/4
@@ -92,7 +96,7 @@ fe | {c}d2 {cd}c>B Bc {Bc}dD | FA {B}A2 {AB}A2 {ea}fe | {c}d2 {cd}c>B Bc {Bc}d^E
 {Bc}B/A/B/c/ | d>c d>e {d}f3 e | {ef}e>d c>B {B}A2 {fg}f>e | d2 {cd}c>B Bc {Bc}d^E | {^EG}F2 B>c {Bc}B2 Bc | 
 {de}d>c d>e {d}f3 e | {ef}e>d c>B {A}a2- a>g | {fg}f>e d>c B>c {Bc}d^E | {^E}F2 B>c {dc}B2 |]
 
-X:6
+X:7
 T: Sitting in the Stern of a Boat
 C:William McLeod
 M:C
@@ -103,7 +107,11 @@ DE | G>AGF E2 DG | B>c ({Bc}d>)B A2 GE | D>EGA  B2 g>d | B2 A2 G2:|
 g2 | e>def g3  b | a>gab   e2 d>B | d(e/f/) g>a g>a (g/a/).g/.f/ | e>^d e(f/g/) e2
 g2 | e>dBd g2 B<b | g<ed>B  A2 G>E | D>EGA B2 (.g/.e/.d/.c/) | B2 A2 G2|]
 
-X:7
+X:8
+T:STRATHSPEYS
+K:A
+
+X:9
 T:Laird o' Drumblair, The
 M:C
 L:1/8
@@ -119,7 +127,7 @@ E | "A"{G}[A2A2] c>A E<A c>A | "A"{^g}a2 g>a f>ae>c | "D"(3.d.e.f (3.e.f.g "A"(3
 |: e | "A"{g}a2 e>a c>aA>a | "A"c/B/A e>g "F#m7"a>A c<a | "Bm"{^a}b2 f>b d>fB>f | "Bm"d/c/B f>B "E"{^a}g>B d<b |
 "A"{g}a2 e>a c>a A>a | "A"c/B/A e>g a>Ac>e | "D"(3.d.e.f (3.e.f.g "A"(3.a.e.d (3.c.B.A | "E"(3GFE (3dcB "A"{G}[A2A2] [EA] :|
 
-X:8
+X:10
 T:Grantully Bridge
 R:Strathspey
 B:The Athole Collection 
@@ -130,7 +138,7 @@ D|B,>DF>A ~B>F G<B|F<B, F>D C2 C>D|B,>DF>A B>FB>g| F<B c>d B2B:|
 (3f/g/a/|b>fd>f B>dB>F|G>BF>D C2 C>f|b>fd>f B>cB>F|
 G>BA>c Bc/d/ e/f/g/a/|b>fd>f ~B>cB>F|G<B F>D C2 C>D| B,>DF>A B>FG>g|F>Bc>d B2B|]
 
-X:9
+X:11
 T:Mar Castle.
 C: J. Scott Skinner
 M:C
@@ -143,7 +151,7 @@ K:E
 (g>>e b>>e {d'}!0!e'>>b g>>e) | (d>>Bf>>d !0!a>>fd>>B) | (g>>e b>>e !0!e'>>b g>>e) | (ab/c'/) (f>b) {ga}g>e (eb) |
 (g/f/e) (b>g) ((3!upbow!.e'.b.g (3.e.B.G) | (d/c/B) (f>d) ((3!0!!upbow!a.f.d (3.B.A.F) | ((3EGB) ((3egb) ((3e'g'b') e''>b | (c'>>e') (b>>e') {ga}g>e [eBG]2 |]
 
-X:10
+X:12
 T:Miss Laura Andrew
 M:C
 L:1/8
@@ -157,7 +165,7 @@ c/B/A/G/ {EG}F>E (E2TE) :| g/a/ | !>!b>g eb gb (e!0!e') | !>!f>d .B.f .d.f (B!0!
 {ga}!>!b>g eb gb (e!0!e') | {A}c'/b/a/g/ {eg}!>!f>>e (e2 Te).g/.a/ | !>!b>g eb gb e!0!e' |
 !>!f>d Bf dfBf | {d}[ee]2 (g/f/).e/.d/ {d}e.TE.TG.TB | {A,E}c/B/A/G/ {EG}F>>E (E2 TE) |]
 
-X:11
+X:13
 %
 U:~=!turn!
 U:k=!crescendo(!
@@ -177,7 +185,7 @@ K:Bb
 f | {/a}Lb>f d<B g<e c>a | {/a}b>f e/d/c/B/ Lf3 a | b>f d<B g<ec>B | (tA>.B) (c<f) [D2B2] [DB]>a |
 b>f d<B g<e c>a | {/a}(b>f) (e/d/).c/.B/ f2- f>e | (d>B)(e>c) d/c/B/A/ {/A}(tB>.G) | (G/F/).E/.D/ (F/E/).D/.C/ B,2- B, |]
 
-X:12
+X:14
 T:The Warrior o' Persie
 C: J. Scott Skinner
 R: air, strathspey
@@ -191,12 +199,13 @@ g | {DA}f>gaf .d.A.F.D | g>abg .e.B.G.E | f>ga.f .d.A.F.D | C/D/E/F/ G/E/A/G/ FD
 "^Var. to 2nd Strain only"!>!g | f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ |  f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/ D/!tenuto!d/ |  C/D/E/F/ G/E/A/G/ FD[DA,]g |
 !>!f/g/a/g/ f/e/d/c/ d/f/A/d/ F/A/D/f/ | !>!g/a/b/a/ g/f/e/^d/ e/g/B/e/ G/B/E/g/ & x7 E/C/ | {C}[DD]2 F>D B,D G,!fermata!B | A/B/c/d/ a/f/g/e/ fdd |]
 
-X:13
+X:15
 T:The Miller's Daughter
 C:
 S: The Gow Collection
 M:C
 L:1/8
+C: From the Gow collections
 Z: Jason R. Fruit <JasonFruit@gmail.com>
 R: Slow strathspey
 K:D
@@ -206,7 +215,26 @@ K:D
 |: (!p!f/g/| a>)fdf !trill!e>def | (a/g/).f/.e/ d>A !trill!d>ef>d | ga/g/ (f/a/).g/.f/ !trill!e>de<f | A<A!trill!B>A d2-d :|
 |: !f!f | D<D!trill!F>D [EC]2 [EC]>f | D<DF>A !turn!A>B!turn!d>e | f>de>B d>F!fermata![EC]>F | A,<A,!trill!B,>A, D2-D :|
 
-X:14
+X:16
+T:Kinrara Strathspey
+C: William Marshall
+R: strathspey
+M:C|
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:Bb
+F | B>cBd FB G/F/E/D/ | B<FB>d cCCA | !trill!B>cBd FB G/F/E/D/ | E<g !trill!f>e dBB :|
+f | df e/d/c/B/ bBeg | !trill!f>g e/d/c/B/ {Bc}d<c- cd/e/ | fBdB gBeg | FB {d}!trill!(cB/c/) {Bc}dBBd |
+f2 {ga}(bB) gBfB | e>c e/d/c/B/ A(c{dcB}) (cd) | B<FG<B F<B G/F/E/D/ | E<g {g}!trill!f>e d<B [BD] |]
+%%text NB. This Strathspey was Composed by Mr. Marshall for the Duchess of Gordon, but is 
+%%text Published by Mr. Gow in his 4th Book, where he has changed its name, and called it
+%%text the Countess of Dalkeith
+
+X:17
+T:MARCHES
+K:A
+
+X:18
 T:The Headlands
 M:C|
 L:1/8
@@ -219,7 +247,11 @@ a>ef<a c<ec>A|d>Ad<f e2 (3efg|a>ef<a f>ed<c|
 |1 c>BA<c B2 (3efg|a>ef<a c<ec>A|d>Ad<f a2 g>f|e<aA>c B>fe<d|c2 A2 A2 (3efg:|
 |2 c>BA<c B2 e>c|d>cB>A A<cE>A|F>Ad<f a2 g>f|e<aA>c B>fe>d|c2 A2 A2 |]
 
-X:15
+X:19
+T:REELS
+K:A
+
+X:20
 T:Up And War Them A', Willie
 C: Niel Gow collection
 R: Medley (reel)
@@ -232,7 +264,7 @@ A/A/A cA d2 (.d.f) | A/A/A cA !trill!B2 B>c | A/A/A cA defa | edcB A3 || g |
 afec d2 df | (a/g/f/e/) a>c !trill!B2 Bg | afec defa | edcB A3 g|
 (a/g/f/e/) ac d2 df | (a/g/f/e/) ac !trill!B3 g | aefc defa | edcB A3 |]
 
-X:16
+X:21
 T: The Hawk
 C:James Hill
 S:"The Lads Like Beer" - The Fiddle Music of James Hill
@@ -247,7 +279,7 @@ K:E
  B>B   |(B>b)g>e (B>a)f>d| B(a/g/) fd edcB   |(c>B)d>c (e>d)f>e|(g>f)a>g  f2  f>g|
         (a>b)g>a (f>g)e>f| dbca       BgAf   |(d>e)f>g (a>B)c>d|(e>B)g>f  e2    :|
 
-X:17
+X:22
 T: Pretty Peggy
 O: Lowe 2
 R: reel
@@ -269,7 +301,24 @@ T: (Driven bow variant)
 "D"D/D/D (AD) "G"BDAD | "D"D/D/D (FD) "A7"CEEG | "D"D/D/D (AD) "G"BDAD | "A7"(G/F/E) (FD) "D"A,DDA |
 "D"D/D/D (dD) cDBD | "D"A(D F/E/D) "A7"CEEG | "D"FAd(f "Em"ec)dB | "A7"A(FGE) "D"D/D/D D |]
 
-X:18
+X:23
+T:The Strathbogie Toast
+M:C
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+R: reel
+C: from Wm. Marshall's collection
+K:Aminor
+ea (b/a/^g) a2 e=g | dega egdg | ea (b/a/^g) a2 ea | =g<ed>B {B}A2 A2 |
+ea (b/a/^g) a2 e=g | dega egdg | e!1!gab c'bag | e<gd>B {B}A2 Aa ||
+cAeA cAeA | gedg BGdB | cAeA cAeA | g<ed>B {B}A2 Aa |
+cAeA cAeA | gedg BGdB | ABcd efga | g<ed>B {B}A2A2 |]
+
+X:24
+T:JIGS
+K:A
+
+X:25
 T:Drummond Castle
 M:6/8
 L:1/8
@@ -283,15 +332,3 @@ E | A>BA a3 | a>ge g3 | c2 c e>dc | B>dg dBG |
 A>BA a3 | a>ge g3 | e>ge deg | edB A2 :| 
 |: B | c2 c c>ec | d2 d d>ed | c2 c e>dc | B>dg dBG | 
 c2 c e>dc | d>eg a2 g | e>ge deg | edB A2:|
-
-X:19
-T:The Strathbogie Toast
-M:C
-L:1/8
-Z: Jason R. Fruit <JasonFruit@gmail.com>
-R: reel
-K:Aminor
-ea (b/a/^g) a2 e=g | dega egdg | ea (b/a/^g) a2 ea | =g<ed>B {B}A2 A2 |
-ea (b/a/^g) a2 e=g | dega egdg | e!1!gab c'bag | e<gd>B {B}A2 Aa ||
-cAeA cAeA | gedg BGdB | cAeA cAeA | g<ed>B {B}A2 Aa |
-cAeA cAeA | gedg BGdB | ABcd efga | g<ed>B {B}A2A2 |]
