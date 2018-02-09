@@ -302,6 +302,17 @@ T: (Driven bow variant)
 "D"D/D/D (dD) cDBD | "D"A(D F/E/D) "A7"CEEG | "D"FAd(f "Em"ec)dB | "A7"A(FGE) "D"D/D/D D |]
 
 X:23
+T:Miss Watt's Reel — Mether Cluny.
+C: From Wm. Marshall's collection
+M:C|
+R: reel
+L:1/8
+Z: Jason R. Fruit <JasonFruit@gmail.com>
+K:Bb
+d | ~B2 (dB) fBdB | GFGB (!trill!cBc).d | B/B/B (dB) fBdB | egfe d(BB) :| E | (DE/F/) (B,F) BFdB | GFGB (!trill!cBc)d |
+Bfdf egdf | (!trill!cBc).d B/B/B BE | (DE/F/) (B,F) BFdB | GFGB (!trill!cBc).d | f/f/f (~gf) bfdB | egfe d(BB)|]
+
+X:24
 T:The Strathbogie Toast
 M:C
 L:1/8
@@ -314,11 +325,11 @@ ea (b/a/^g) a2 e=g | dega egdg | e!1!gab c'bag | e<gd>B {B}A2 Aa ||
 cAeA cAeA | gedg BGdB | cAeA cAeA | g<ed>B {B}A2 Aa |
 cAeA cAeA | gedg BGdB | ABcd efga | g<ed>B {B}A2A2 |]
 
-X:24
+X:25
 T:JIGS
 K:A
 
-X:25
+X:26
 T:Drummond Castle
 M:6/8
 L:1/8
